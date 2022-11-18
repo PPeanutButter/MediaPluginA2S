@@ -1,0 +1,3310 @@
+1
+00:05:53,890 --> 00:05:55,080
+<font face="方正黑体_GBK" size="21"><b>嘿
+</b></font><font face="方正综艺_GBK" size="14"><b>Hey.</b></font>
+
+2
+00:08:04,980 --> 00:08:06,560
+<font face="方正黑体_GBK" size="21"><b>给你
+</b></font><font face="方正综艺_GBK" size="14"><b>Here you go.</b></font>
+
+3
+00:08:09,890 --> 00:08:11,090
+<font face="方正黑体_GBK" size="21"><b>吃吧
+</b></font><font face="方正综艺_GBK" size="14"><b>Here ya go.</b></font>
+
+4
+00:08:35,850 --> 00:08:39,950
+<font face="方正黑体_GBK" size="21"><b>有时候感觉事情永远不会改变
+</b></font><font face="方正综艺_GBK" size="14"><b>Sometimes it feels like things never change.</b></font>
+
+5
+00:08:42,290 --> 00:08:43,720
+<font face="方正黑体_GBK" size="21"><b>但我向你保证
+</b></font><font face="方正综艺_GBK" size="14"><b>But I promise you.</b></font>
+
+6
+00:08:45,350 --> 00:08:48,630
+<font face="方正黑体_GBK" size="21"><b>他们确实如此 他们得这样做
+</b></font><font face="方正综艺_GBK" size="14"><b>They do. They have to.</b></font>
+
+7
+00:08:51,770 --> 00:08:53,000
+<font face="方正黑体_GBK" size="21"><b>我并不是说这很容易
+</b></font><font face="方正综艺_GBK" size="14"><b>And I'm not saying it's easy.</b></font>
+
+8
+00:08:54,740 --> 00:08:57,940
+<font face="方正黑体_GBK" size="21"><b>改变伴随着失落感
+</b></font><font face="方正综艺_GBK" size="14"><b>Change comes with feelings of loss.</b></font>
+
+9
+00:08:59,040 --> 00:09:00,240
+<font face="方正黑体_GBK" size="21"><b>还有...
+</b></font><font face="方正综艺_GBK" size="14"><b>And...</b></font>
+
+10
+00:09:01,040 --> 00:09:02,580
+<font face="方正黑体_GBK" size="21"><b>我们可能会感受到阻力
+</b></font><font face="方正综艺_GBK" size="14"><b>We might feel resistance.</b></font>
+
+11
+00:09:03,040 --> 00:09:07,110
+<font face="方正黑体_GBK" size="21"><b>就像这世界上有许多东西需要改变
+</b></font><font face="方正综艺_GBK" size="14"><b>Like there's so much in the world that needs changing.</b></font>
+
+12
+00:09:08,150 --> 00:09:09,380
+<font face="方正黑体_GBK" size="21"><b>我该从哪里起步
+</b></font><font face="方正综艺_GBK" size="14"><b>Where am I supposed to start?</b></font>
+
+13
+00:09:09,410 --> 00:09:10,820
+<font face="方正黑体_GBK" size="21"><b>对吧
+</b></font><font face="方正综艺_GBK" size="14"><b>Right?</b></font>
+
+14
+00:09:11,250 --> 00:09:12,980
+<font face="方正黑体_GBK" size="21"><b>当你有这种感觉时
+</b></font><font face="方正综艺_GBK" size="14"><b>When you feel that way,</b></font>
+
+15
+00:09:13,020 --> 00:09:15,820
+<font face="方正黑体_GBK" size="21"><b>那是开始工作的时机
+</b></font><font face="方正综艺_GBK" size="14"><b>that is the moment to begin work.</b></font>
+
+16
+00:09:17,220 --> 00:09:20,630
+<font face="方正黑体_GBK" size="21"><b>无论是什么事情让你兴奋 最后都会变成是在消磨时间
+</b></font><font face="方正综艺_GBK" size="14"><b>On whatever fires you up, you just start chipping away.</b></font>
+
+17
+00:09:22,830 --> 00:09:24,230
+<font face="方正黑体_GBK" size="21"><b>如果你环顾这个房间四周
+</b></font><font face="方正综艺_GBK" size="14"><b>And if you look around this room,</b></font>
+
+18
+00:09:25,300 --> 00:09:26,970
+<font face="方正黑体_GBK" size="21"><b>你会发现你并不孤单
+</b></font><font face="方正综艺_GBK" size="14"><b>you'll see that you're not alone.</b></font>
+
+19
+00:09:29,230 --> 00:09:32,740
+<font face="方正黑体_GBK" size="21"><b>永远不要觉得你无能为力
+</b></font><font face="方正综艺_GBK" size="14"><b>Don't ever feel like there's nothing you can do.</b></font>
+
+20
+00:09:33,340 --> 00:09:34,740
+<font face="方正黑体_GBK" size="21"><b>拜托
+</b></font><font face="方正综艺_GBK" size="14"><b>Please.</b></font>
+
+21
+00:09:37,080 --> 00:09:38,310
+<font face="方正黑体_GBK" size="21"><b>这就是我对你们的期待
+</b></font><font face="方正综艺_GBK" size="14"><b>That's my wish for you.</b></font>
+
+22
+00:09:39,680 --> 00:09:42,080
+<font face="方正黑体_GBK" size="21"><b>现在你们上了这门课
+</b></font><font face="方正综艺_GBK" size="14"><b>And now you've taken this class</b></font>
+
+23
+00:09:42,110 --> 00:09:44,350
+<font face="方正黑体_GBK" size="21"><b>我知道你们不会羞于使用你们的语言
+</b></font><font face="方正综艺_GBK" size="14"><b>I know you won't be afraid to use your words.</b></font>
+
+24
+00:09:44,380 --> 00:09:46,020
+<font face="方正黑体_GBK" size="21"><b>是的
+</b></font><font face="方正综艺_GBK" size="14"><b>All right.</b></font>
+
+25
+00:09:46,050 --> 00:09:48,890
+<font face="方正黑体_GBK" size="21"><b>我就只能给你们讲这些 你们有90分钟的时间
+</b></font><font face="方正综艺_GBK" size="14"><b>That's all I've got. You have 90 minutes.</b></font>
+
+26
+00:09:49,320 --> 00:09:50,760
+<font face="方正黑体_GBK" size="21"><b>要让我骄傲
+</b></font><font face="方正综艺_GBK" size="14"><b>Make me proud.</b></font>
+
+27
+00:09:56,390 --> 00:09:57,800
+<font face="方正黑体_GBK" size="21"><b>做得好
+</b></font><font face="方正综艺_GBK" size="14"><b>Well done.</b></font>
+
+28
+00:10:09,080 --> 00:10:10,750
+<font face="方正黑体_GBK" size="21"><b>呃 吉德里教授
+</b></font><font face="方正综艺_GBK" size="14"><b>Uh, Professor Guidry,</b></font>
+
+29
+00:10:10,780 --> 00:10:12,680
+<font face="方正黑体_GBK" size="21"><b>我只是想说谢谢你帮我处理了
+</b></font><font face="方正综艺_GBK" size="14"><b>I just wanted to say thank you for dealing</b></font>
+
+30
+00:10:12,720 --> 00:10:14,680
+<font face="方正黑体_GBK" size="21"><b>我疯狂的日程安排
+</b></font><font face="方正综艺_GBK" size="14"><b>with my crazy schedule.</b></font>
+
+31
+00:10:14,720 --> 00:10:17,210
+<font face="方正黑体_GBK" size="21"><b>格雷琴 你真是太好了
+</b></font><font face="方正综艺_GBK" size="14"><b>Gretchen, that is so sweet of you,</b></font>
+
+32
+00:10:17,250 --> 00:10:18,890
+<font face="方正黑体_GBK" size="21"><b>但你才是成功人士
+</b></font><font face="方正综艺_GBK" size="14"><b>but you're the one who made it work.</b></font>
+
+33
+00:10:19,950 --> 00:10:21,860
+<font face="方正黑体_GBK" size="21"><b>真希望你能再给我上一门课
+</b></font><font face="方正综艺_GBK" size="14"><b>I wish you had another class I could take.</b></font>
+
+34
+00:10:22,890 --> 00:10:24,320
+<font face="方正黑体_GBK" size="21"><b>我喜欢教基础知识
+</b></font><font face="方正综艺_GBK" size="14"><b>I like teaching the basics.</b></font>
+
+35
+00:10:49,510 --> 00:10:51,350
+<font face="方正黑体_GBK" size="21"><b>正如那句流行的格言所说
+</b></font><font face="方正综艺_GBK" size="14"><b>As the popular aphorism goes,</b></font>
+
+36
+00:10:51,380 --> 00:10:53,220
+<font face="方正黑体_GBK" size="21"><b>“那些不会教书的人”
+</b></font><font face="方正综艺_GBK" size="14"><b>"Those who can't do teach,"</b></font>
+
+37
+00:10:53,250 --> 00:10:56,730
+<font face="方正黑体_GBK" size="21"><b>然而那些不会教书的人却都成为了院长
+</b></font><font face="方正综艺_GBK" size="14"><b>and those-- those who can't teach become deans,</b></font>
+
+38
+00:10:56,760 --> 00:10:58,220
+<font face="方正黑体_GBK" size="21"><b>“不同的谈话
+</b></font><font face="方正综艺_GBK" size="14"><b>'nother conversation.</b></font>
+
+39
+00:10:59,800 --> 00:11:01,360
+<font face="方正黑体_GBK" size="21"><b>乔治发挥了关键作用
+</b></font><font face="方正综艺_GBK" size="14"><b>George has played a critical role</b></font>
+
+40
+00:11:01,390 --> 00:11:03,290
+<font face="方正黑体_GBK" size="21"><b>多年来 在建立这个部门的文化教育中
+</b></font><font face="方正综艺_GBK" size="14"><b>in building the culture of this department</b></font>
+
+41
+00:11:03,330 --> 00:11:06,130
+<font face="方正黑体_GBK" size="21"><b>我们都受益于他的智慧
+</b></font><font face="方正综艺_GBK" size="14"><b>over the years and we have all benefited from his wisdom</b></font>
+
+42
+00:11:06,170 --> 00:11:10,230
+<font face="方正黑体_GBK" size="21"><b>我们也因他的幽默而感到振奋
+</b></font><font face="方正综艺_GBK" size="14"><b>and we have had our spirits lifted by his good humor.</b></font>
+
+43
+00:11:10,270 --> 00:11:14,110
+<font face="方正黑体_GBK" size="21"><b>还有 从更私人的角度上来说
+</b></font><font face="方正综艺_GBK" size="14"><b>And man, on a-- on a more personal note,</b></font>
+
+44
+00:11:14,140 --> 00:11:16,110
+<font face="方正黑体_GBK" size="21"><b>我只是谦卑和感激地
+</b></font><font face="方正综艺_GBK" size="14"><b>I am just humbled and grateful</b></font>
+
+45
+00:11:16,140 --> 00:11:20,410
+<font face="方正黑体_GBK" size="21"><b>称你为同事 导师和钓鱼伙伴
+</b></font><font face="方正综艺_GBK" size="14"><b>to call you a colleague, a mentor and a fishing buddy.</b></font>
+
+46
+00:11:20,440 --> 00:11:24,150
+<font face="方正黑体_GBK" size="21"><b>说真的 伙计们 这家伙会飞
+</b></font><font face="方正综艺_GBK" size="14"><b>Seriously, folks, this guy can cast a fly.</b></font>
+
+47
+00:11:24,180 --> 00:11:26,890
+<font face="方正黑体_GBK" size="21"><b>我见过他在一英尺深的死水里从一条棕色的鳟鱼身上爬起来
+</b></font><font face="方正综艺_GBK" size="14"><b>I have seen him get a rise out of a brown trout in one</b></font>
+
+48
+00:11:26,920 --> 00:11:29,450
+<font face="方正黑体_GBK" size="21"><b>我可不是在开玩笑
+</b></font><font face="方正综艺_GBK" size="14"><b>foot of stillwater, I am not kidding you.</b></font>
+
+49
+00:11:32,220 --> 00:11:33,800
+<font face="方正黑体_GBK" size="21"><b>不管怎么说 我已经让这个男人够难堪了
+</b></font><font face="方正综艺_GBK" size="14"><b>Anyway, I've embarrassed the man enough.</b></font>
+
+50
+00:11:33,830 --> 00:11:35,360
+<font face="方正黑体_GBK" size="21"><b>敬乔治
+</b></font><font face="方正综艺_GBK" size="14"><b>To George.</b></font>
+
+51
+00:11:39,900 --> 00:11:41,170
+<font face="方正黑体_GBK" size="21"><b>谢谢你 小伙子
+</b></font><font face="方正综艺_GBK" size="14"><b>Thanks, man.</b></font>
+
+52
+00:11:42,140 --> 00:11:43,810
+<font face="方正黑体_GBK" size="21"><b>要取代你的位置可不容易 乔治
+</b></font><font face="方正综艺_GBK" size="14"><b>It's gonna be hard to fill your shoes, George.</b></font>
+
+53
+00:11:43,840 --> 00:11:45,070
+<font face="方正黑体_GBK" size="21"><b>我就跟你说这么多
+</b></font><font face="方正综艺_GBK" size="14"><b>Tell ya that much.</b></font>
+
+54
+00:11:45,110 --> 00:11:46,370
+<font face="方正黑体_GBK" size="21"><b>嘿 亚瑟
+</b></font><font face="方正综艺_GBK" size="14"><b>Hey, Arthur.</b></font>
+
+55
+00:11:46,400 --> 00:11:48,110
+<font face="方正黑体_GBK" size="21"><b>桑德拉 你是怎么坚持下来的
+</b></font><font face="方正综艺_GBK" size="14"><b>Sandra, how ya holdin' up?</b></font>
+
+56
+00:11:48,140 --> 00:11:49,340
+<font face="方正黑体_GBK" size="21"><b>你还好吗
+</b></font><font face="方正综艺_GBK" size="14"><b>You doin' okay?</b></font>
+
+57
+00:11:50,080 --> 00:11:51,370
+<font face="方正黑体_GBK" size="21"><b>-我很好 我很好 -好的
+</b></font><font face="方正综艺_GBK" size="14"><b>- I'm good, I'm good. - Yeah.</b></font>
+
+58
+00:11:52,410 --> 00:11:55,150
+<font face="方正黑体_GBK" size="21"><b>我不想在会议上为难你
+</b></font><font face="方正综艺_GBK" size="14"><b>I didn't want to put you on the spot in the meeting,</b></font>
+
+59
+00:11:55,180 --> 00:11:57,750
+<font face="方正黑体_GBK" size="21"><b>但请接受我最诚挚的慰问
+</b></font><font face="方正综艺_GBK" size="14"><b>but my sincere condolences.</b></font>
+
+60
+00:11:58,580 --> 00:12:02,220
+<font face="方正黑体_GBK" size="21"><b>我很高兴她不再受苦了
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm just glad that she's not suffering anymore.</b></font>
+
+61
+00:12:02,890 --> 00:12:05,390
+<font face="方正黑体_GBK" size="21"><b>是的 是的 她现在的处境要更好了
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah. Yeah. She's in a better place now.</b></font>
+
+62
+00:12:07,900 --> 00:12:10,560
+<font face="方正黑体_GBK" size="21"><b>我... 我... 我确实有个小问题
+</b></font><font face="方正综艺_GBK" size="14"><b>I-- I-- I did have a quick question.</b></font>
+
+63
+00:12:10,590 --> 00:12:13,200
+<font face="方正黑体_GBK" size="21"><b>好的 好吧 跟我走
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah. Okay, well, walk with me,</b></font>
+
+64
+00:12:13,230 --> 00:12:14,840
+<font face="方正黑体_GBK" size="21"><b>因为我得回家了
+</b></font><font face="方正综艺_GBK" size="14"><b>'cause I got to get home.</b></font>
+
+65
+00:12:14,870 --> 00:12:17,000
+<font face="方正黑体_GBK" size="21"><b>格雷琴 你能为这些东西
+</b></font><font face="方正综艺_GBK" size="14"><b>Hey, Gretchen, can you find a tote bag</b></font>
+
+66
+00:12:17,040 --> 00:12:18,240
+<font face="方正黑体_GBK" size="21"><b>找个手提包吗
+</b></font><font face="方正综艺_GBK" size="14"><b>for some of this stuff?</b></font>
+
+67
+00:12:19,300 --> 00:12:21,170
+<font face="方正黑体_GBK" size="21"><b>你今天早上看到一辆红色卡车了吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Did you see a red truck this morning?</b></font>
+
+68
+00:12:22,910 --> 00:12:25,010
+<font face="方正黑体_GBK" size="21"><b>我每次睁开眼睛都能看到一辆红色卡车
+</b></font><font face="方正综艺_GBK" size="14"><b>I see a red truck every time I open my eyes,</b></font>
+
+69
+00:12:25,050 --> 00:12:26,240
+<font face="方正黑体_GBK" size="21"><b>实际上是一辆国产车
+</b></font><font face="方正综艺_GBK" size="14"><b>it's practically the state car.</b></font>
+
+70
+00:12:27,150 --> 00:12:28,580
+<font face="方正黑体_GBK" size="21"><b>-嘿 托德 -假期愉快
+</b></font><font face="方正综艺_GBK" size="14"><b>- Hey, Todd. - Nice holiday.</b></font>
+
+71
+00:12:28,610 --> 00:12:30,050
+<font face="方正黑体_GBK" size="21"><b>回见 圣诞快乐
+</b></font><font face="方正综艺_GBK" size="14"><b>See ya, merry Christmas.</b></font>
+
+72
+00:12:30,080 --> 00:12:32,050
+<font face="方正黑体_GBK" size="21"><b>我是说 在峡谷里
+</b></font><font face="方正综艺_GBK" size="14"><b>I mean, in the canyon.</b></font>
+
+73
+00:12:33,350 --> 00:12:35,120
+<font face="方正黑体_GBK" size="21"><b>它停在我的车道上
+</b></font><font face="方正综艺_GBK" size="14"><b>It was parked in my driveway.</b></font>
+
+74
+00:12:36,620 --> 00:12:38,190
+<font face="方正黑体_GBK" size="21"><b>可能是猎人吧
+</b></font><font face="方正综艺_GBK" size="14"><b>Probably hunters, right?</b></font>
+
+75
+00:12:39,900 --> 00:12:41,090
+<font face="方正黑体_GBK" size="21"><b>我不知道
+</b></font><font face="方正综艺_GBK" size="14"><b>I don't know.</b></font>
+
+76
+00:12:43,000 --> 00:12:44,200
+<font face="方正黑体_GBK" size="21"><b>呃...
+</b></font><font face="方正综艺_GBK" size="14"><b>Um...</b></font>
+
+77
+00:12:45,200 --> 00:12:48,070
+<font face="方正黑体_GBK" size="21"><b>你知道 苏珊几年前失去了母亲
+</b></font><font face="方正综艺_GBK" size="14"><b>You know, Susan lost her mom a few years back.</b></font>
+
+78
+00:12:49,330 --> 00:12:52,300
+<font face="方正黑体_GBK" size="21"><b>它... 它带来了所有悬而未决的问题
+</b></font><font face="方正综艺_GBK" size="14"><b>It-- it brings up all of the unresolved shit.</b></font>
+
+79
+00:12:53,500 --> 00:12:57,470
+<font face="方正黑体_GBK" size="21"><b>需要时间去消化 不要对自己太苛刻 好吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Takes time. Just go easy on yourself. Okay?</b></font>
+
+80
+00:12:59,310 --> 00:13:01,080
+<font face="方正黑体_GBK" size="21"><b>是的 也许你是对的
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah, you're probably right.</b></font>
+
+81
+00:13:05,280 --> 00:13:07,320
+<font face="方正黑体_GBK" size="21"><b>我期待在圣诞晚会上见到你
+</b></font><font face="方正综艺_GBK" size="14"><b>And I expect to see you at the Christmas party!</b></font>
+
+82
+00:13:08,520 --> 00:13:09,920
+<font face="方正黑体_GBK" size="21"><b>会有蛋奶酒等着你的
+</b></font><font face="方正综艺_GBK" size="14"><b>There's gonna be eggnog!</b></font>
+
+83
+00:17:03,460 --> 00:17:04,650
+<font face="方正黑体_GBK" size="21"><b>过来
+</b></font><font face="方正综艺_GBK" size="14"><b>Come on!</b></font>
+
+84
+00:17:12,760 --> 00:17:14,170
+<font face="方正黑体_GBK" size="21"><b>过来 宝贝
+</b></font><font face="方正综艺_GBK" size="14"><b>C'mon, baby.</b></font>
+
+85
+00:17:35,520 --> 00:17:37,850
+<font face="方正黑体_GBK" size="21"><b>-早上好 女士 -早上好
+</b></font><font face="方正综艺_GBK" size="14"><b>- Morning, ma'am. - Good morning to you.</b></font>
+
+86
+00:17:39,890 --> 00:17:41,460
+<font face="方正黑体_GBK" size="21"><b>这里是你的黄金地段
+</b></font><font face="方正综艺_GBK" size="14"><b>It's a prime spot you got here.</b></font>
+
+87
+00:17:42,790 --> 00:17:45,500
+<font face="方正黑体_GBK" size="21"><b>我们只是想去树林里走走
+</b></font><font face="方正综艺_GBK" size="14"><b>Hey, we just figured we'd walk up into the woods.</b></font>
+
+88
+00:17:45,530 --> 00:17:47,830
+<font face="方正黑体_GBK" size="21"><b>我们不会给你添麻烦的 我们会离你远远的
+</b></font><font face="方正综艺_GBK" size="14"><b>We won't be any trouble for ya. We'll stay out of your hair.</b></font>
+
+89
+00:17:50,540 --> 00:17:52,210
+<font face="方正黑体_GBK" size="21"><b>你肯定收到我的便条了
+</b></font><font face="方正综艺_GBK" size="14"><b>You must have got my note, though.</b></font>
+
+90
+00:17:52,900 --> 00:17:54,570
+<font face="方正黑体_GBK" size="21"><b>我昨天把它放在你的卡车上了
+</b></font><font face="方正综艺_GBK" size="14"><b>I put it on your truck yesterday.</b></font>
+
+91
+00:17:58,180 --> 00:17:59,710
+<font face="方正黑体_GBK" size="21"><b>这是我头一回听到说有便条在我车上
+</b></font><font face="方正综艺_GBK" size="14"><b>That's the first I heard of any note.</b></font>
+
+92
+00:17:59,740 --> 00:18:01,150
+<font face="方正黑体_GBK" size="21"><b>上面都写了啥
+</b></font><font face="方正综艺_GBK" size="14"><b>What-- What did it say?</b></font>
+
+93
+00:18:03,480 --> 00:18:05,710
+<font face="方正黑体_GBK" size="21"><b>它说我不希望你把车停在这里
+</b></font><font face="方正综艺_GBK" size="14"><b>It said I'd prefer you not park here.</b></font>
+
+94
+00:18:09,820 --> 00:18:11,230
+<font face="方正黑体_GBK" size="21"><b>啊哈
+</b></font><font face="方正综艺_GBK" size="14"><b>Uh-huh.</b></font>
+
+95
+00:18:12,560 --> 00:18:14,490
+<font face="方正黑体_GBK" size="21"><b>只是这个地方没有太多
+</b></font><font face="方正综艺_GBK" size="14"><b>It's just there's not a lot of good jumping</b></font>
+
+96
+00:18:14,530 --> 00:18:15,720
+<font face="方正黑体_GBK" size="21"><b>好的移动点
+</b></font><font face="方正综艺_GBK" size="14"><b>off points around here.</b></font>
+
+97
+00:18:16,830 --> 00:18:18,790
+<font face="方正黑体_GBK" size="21"><b>你可以从另一边儿进来
+</b></font><font face="方正综艺_GBK" size="14"><b>You could always come in from the other side.</b></font>
+
+98
+00:18:21,500 --> 00:18:22,700
+<font face="方正黑体_GBK" size="21"><b>另一边儿
+</b></font><font face="方正综艺_GBK" size="14"><b>The other side?</b></font>
+
+99
+00:18:23,800 --> 00:18:25,210
+<font face="方正黑体_GBK" size="21"><b>那得有多远
+</b></font><font face="方正综艺_GBK" size="14"><b>How far is that?</b></font>
+
+100
+00:18:25,900 --> 00:18:27,310
+<font face="方正黑体_GBK" size="21"><b>大约15英里
+</b></font><font face="方正综艺_GBK" size="14"><b>About 15 miles.</b></font>
+
+101
+00:18:29,810 --> 00:18:31,280
+<font face="方正黑体_GBK" size="21"><b>15英里
+</b></font><font face="方正综艺_GBK" size="14"><b>Fifteen miles.</b></font>
+
+102
+00:18:40,780 --> 00:18:42,420
+<font face="方正黑体_GBK" size="21"><b>女士 我们不会在谁的住所开枪
+</b></font><font face="方正综艺_GBK" size="14"><b>Ma'am, we're not gonna put a bullet</b></font>
+
+103
+00:18:42,460 --> 00:18:43,850
+<font face="方正黑体_GBK" size="21"><b>或射杀谁的牛
+</b></font><font face="方正综艺_GBK" size="14"><b>in anyone's house or shoot anybody's cow.</b></font>
+
+104
+00:18:43,890 --> 00:18:45,720
+<font face="方正黑体_GBK" size="21"><b>我也不认为你会这样
+</b></font><font face="方正综艺_GBK" size="14"><b>I didn't think you were.</b></font>
+
+105
+00:18:45,760 --> 00:18:47,590
+<font face="方正黑体_GBK" size="21"><b>是的 但你明确告诉我你想让我们
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah, but you're telling me you want us to walk</b></font>
+
+106
+00:18:47,630 --> 00:18:48,860
+<font face="方正黑体_GBK" size="21"><b>在雪地里走15英里
+</b></font><font face="方正综艺_GBK" size="14"><b>15 miles in the snow.</b></font>
+
+107
+00:18:48,890 --> 00:18:50,560
+<font face="方正黑体_GBK" size="21"><b>我可不是这么说的
+</b></font><font face="方正综艺_GBK" size="14"><b>That's not what I said</b></font>
+
+108
+00:18:50,600 --> 00:18:52,270
+<font face="方正黑体_GBK" size="21"><b>我也没有告诉你该做什么
+</b></font><font face="方正综艺_GBK" size="14"><b>and I'm not telling you to do anything.</b></font>
+
+109
+00:18:52,990 --> 00:18:55,300
+<font face="方正黑体_GBK" size="21"><b>我想说的是在你把车停在别人的地盘上之前
+</b></font><font face="方正综艺_GBK" size="14"><b>All I'm saying is before you park</b></font>
+
+110
+00:18:55,340 --> 00:18:59,110
+<font face="方正黑体_GBK" size="21"><b>你必须得先问问人家是否同意
+</b></font><font face="方正综艺_GBK" size="14"><b>on someone's property, you have to ask.</b></font>
+
+111
+00:19:02,970 --> 00:19:04,640
+<font face="方正黑体_GBK" size="21"><b>我对你有所耳闻
+</b></font><font face="方正综艺_GBK" size="14"><b>I heard about you.</b></font>
+
+112
+00:19:06,680 --> 00:19:08,710
+<font face="方正黑体_GBK" size="21"><b>只是不知道是这个峡谷
+</b></font><font face="方正综艺_GBK" size="14"><b>Just didn't know it was this canyon.</b></font>
+
+113
+00:19:14,290 --> 00:19:18,260
+<font face="方正黑体_GBK" size="21"><b>好了 忘了这一茬吧
+</b></font><font face="方正综艺_GBK" size="14"><b>All right. Forget about her.</b></font>
+
+114
+00:19:18,290 --> 00:19:19,490
+<font face="方正黑体_GBK" size="21"><b>上车吧
+</b></font><font face="方正综艺_GBK" size="14"><b>Get in the truck.</b></font>
+
+115
+00:19:33,610 --> 00:19:34,800
+<font face="方正黑体_GBK" size="21"><b>太过分了
+</b></font><font face="方正综艺_GBK" size="14"><b>Too much.</b></font>
+
+116
+00:19:48,950 --> 00:19:52,020
+<font face="方正黑体_GBK" size="21"><b>显然 没有人反对
+</b></font><font face="方正综艺_GBK" size="14"><b>Look, obviously, nobody objects</b></font>
+
+117
+00:19:52,050 --> 00:19:53,760
+<font face="方正黑体_GBK" size="21"><b>这个基本概念
+</b></font><font face="方正综艺_GBK" size="14"><b>to the basic concept.</b></font>
+
+118
+00:19:53,790 --> 00:19:56,730
+<font face="方正黑体_GBK" size="21"><b>我只是认为 首先 我们需要
+</b></font><font face="方正综艺_GBK" size="14"><b>I just think, first and foremost,</b></font>
+
+119
+00:19:56,760 --> 00:19:59,860
+<font face="方正黑体_GBK" size="21"><b>审视冷酷 苛刻的限定条件
+</b></font><font face="方正综艺_GBK" size="14"><b>we need to look at cold, hard qualifications.</b></font>
+
+120
+00:19:59,900 --> 00:20:01,860
+<font face="方正黑体_GBK" size="21"><b>所以 正如我们一开始所说的
+</b></font><font face="方正综艺_GBK" size="14"><b>So, like we said, in the beginning,</b></font>
+
+121
+00:20:01,900 --> 00:20:04,970
+<font face="方正黑体_GBK" size="21"><b>我们的工作是向院长推荐三位最佳候选人
+</b></font><font face="方正综艺_GBK" size="14"><b>our job is to present the three best candidates to the dean.</b></font>
+
+122
+00:20:05,000 --> 00:20:06,700
+<font face="方正黑体_GBK" size="21"><b>任期
+</b></font><font face="方正综艺_GBK" size="14"><b>Period.</b></font>
+
+123
+00:20:06,740 --> 00:20:08,280
+<font face="方正黑体_GBK" size="21"><b>好吧 我想我只是对我们所说的
+</b></font><font face="方正综艺_GBK" size="14"><b>Well, I guess I'm just confused</b></font>
+
+124
+00:20:08,310 --> 00:20:09,900
+<font face="方正黑体_GBK" size="21"><b>最好的意思感到困惑
+</b></font><font face="方正综艺_GBK" size="14"><b>about what we mean by best.</b></font>
+
+125
+00:20:09,940 --> 00:20:12,410
+<font face="方正黑体_GBK" size="21"><b>我认为我们不应该试图填补
+</b></font><font face="方正综艺_GBK" size="14"><b>I don't think we should be trying to fill</b></font>
+
+126
+00:20:12,450 --> 00:20:14,320
+<font face="方正黑体_GBK" size="21"><b>某种指标
+</b></font><font face="方正综艺_GBK" size="14"><b>some kind of quota.</b></font>
+
+127
+00:20:14,350 --> 00:20:18,680
+<font face="方正黑体_GBK" size="21"><b>噢 当然不是 没有人强迫我们
+</b></font><font face="方正综艺_GBK" size="14"><b>Oh, course not. No one is forcing our hand.</b></font>
+
+128
+00:20:18,720 --> 00:20:22,050
+<font face="方正黑体_GBK" size="21"><b>这些都是我们应该
+</b></font><font face="方正综艺_GBK" size="14"><b>These are just factors we should consider</b></font>
+
+129
+00:20:22,080 --> 00:20:24,460
+<font face="方正黑体_GBK" size="21"><b>考虑在内的因素
+</b></font><font face="方正综艺_GBK" size="14"><b>among many others.</b></font>
+
+130
+00:20:25,690 --> 00:20:28,760
+<font face="方正黑体_GBK" size="21"><b>还有人想要补充吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Um, did anyone else want to chime in?</b></font>
+
+131
+00:20:35,900 --> 00:20:37,500
+<font face="方正黑体_GBK" size="21"><b>是的 费思 你有什么要说的吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Yes. Faith, you have a comment?</b></font>
+
+132
+00:20:39,470 --> 00:20:42,340
+<font face="方正黑体_GBK" size="21"><b>对我来说 学习就是
+</b></font><font face="方正综艺_GBK" size="14"><b>To me, learning is about</b></font>
+
+133
+00:20:43,640 --> 00:20:46,940
+<font face="方正黑体_GBK" size="21"><b>提问和挑战自己
+</b></font><font face="方正综艺_GBK" size="14"><b>asking questions and challenging yourself.</b></font>
+
+134
+00:20:49,350 --> 00:20:51,420
+<font face="方正黑体_GBK" size="21"><b>这些年来 我的一些最优秀的学生
+</b></font><font face="方正综艺_GBK" size="14"><b>Over the years, some of my very best students</b></font>
+
+135
+00:20:51,450 --> 00:20:54,820
+<font face="方正黑体_GBK" size="21"><b>都是来自印第安人
+</b></font><font face="方正综艺_GBK" size="14"><b>have been Indians from the reservation</b></font>
+
+136
+00:20:54,850 --> 00:20:58,660
+<font face="方正黑体_GBK" size="21"><b>因为他们把这种全新的体验带入了课堂
+</b></font><font face="方正综艺_GBK" size="14"><b>because they bring this whole other experience into class.</b></font>
+
+137
+00:21:00,690 --> 00:21:05,060
+<font face="方正黑体_GBK" size="21"><b>我认为我们可以多倾听
+</b></font><font face="方正综艺_GBK" size="14"><b>I think we could all stand to listen more and learn</b></font>
+
+138
+00:21:05,090 --> 00:21:09,300
+<font face="方正黑体_GBK" size="21"><b>从与我们观点不同的人的身上学到更多
+</b></font><font face="方正综艺_GBK" size="14"><b>more from people who don't have the same perspective as us.</b></font>
+
+139
+00:21:11,410 --> 00:21:15,310
+<font face="方正黑体_GBK" size="21"><b>你可以称之为多样性 我也不太清楚
+</b></font><font face="方正综艺_GBK" size="14"><b>You can call it diversity. I don't know.</b></font>
+
+140
+00:21:15,840 --> 00:21:19,350
+<font face="方正黑体_GBK" size="21"><b>在可能的情况下 吸引不同类型的人
+</b></font><font face="方正综艺_GBK" size="14"><b>It just seems like the right thing to do</b></font>
+
+141
+00:21:19,380 --> 00:21:23,810
+<font face="方正黑体_GBK" size="21"><b>似乎是正确的做法
+</b></font><font face="方正综艺_GBK" size="14"><b>to bring in different sorts of people when we can,</b></font>
+
+142
+00:21:24,680 --> 00:21:28,050
+<font face="方正黑体_GBK" size="21"><b>而不是像以前那样做
+</b></font><font face="方正综艺_GBK" size="14"><b>rather than doing the same old thing we've been doing.</b></font>
+
+143
+00:21:33,990 --> 00:21:36,430
+<font face="方正黑体_GBK" size="21"><b>我觉得你的观点很好 费思
+</b></font><font face="方正综艺_GBK" size="14"><b>I think your point's very well taken, Faith.</b></font>
+
+144
+00:21:38,430 --> 00:21:39,630
+<font face="方正黑体_GBK" size="21"><b>让我们把它列为优先事项
+</b></font><font face="方正综艺_GBK" size="14"><b>Let's make it a priority.</b></font>
+
+145
+00:21:42,000 --> 00:21:44,970
+<font face="方正黑体_GBK" size="21"><b>呃... 就这样吧
+</b></font><font face="方正综艺_GBK" size="14"><b>Um... all right.</b></font>
+
+146
+00:30:07,570 --> 00:30:09,940
+<font face="方正黑体_GBK" size="21"><b>女士 你介意为我拼一下你的姓氏吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Ma'am, would you mind spelling your last name for me?</b></font>
+
+147
+00:30:11,050 --> 00:30:13,610
+<font face="方正黑体_GBK" size="21"><b>G-U-I-D-R-Y
+</b></font><font face="方正综艺_GBK" size="14"><b>G-U-I-D-R-Y.</b></font>
+
+148
+00:30:18,320 --> 00:30:22,020
+<font face="方正黑体_GBK" size="21"><b>卡桑德拉·吉德里 这是一个名字
+</b></font><font face="方正综艺_GBK" size="14"><b>Cassandra Guidry. That's a name.</b></font>
+
+149
+00:30:23,490 --> 00:30:25,260
+<font face="方正黑体_GBK" size="21"><b>你从哪里来
+</b></font><font face="方正综艺_GBK" size="14"><b>Where you from originally?</b></font>
+
+150
+00:30:27,190 --> 00:30:28,390
+<font face="方正黑体_GBK" size="21"><b>新奥尔良
+</b></font><font face="方正综艺_GBK" size="14"><b>New Orleans.</b></font>
+
+151
+00:30:29,660 --> 00:30:31,060
+<font face="方正黑体_GBK" size="21"><b>新奥尔良
+</b></font><font face="方正综艺_GBK" size="14"><b>New Orleans.</b></font>
+
+152
+00:30:32,590 --> 00:30:34,170
+<font face="方正黑体_GBK" size="21"><b>人们把那地方称之为 呃...
+</b></font><font face="方正综艺_GBK" size="14"><b>What do they call that, uh...</b></font>
+
+153
+00:30:36,070 --> 00:30:37,630
+<font face="方正黑体_GBK" size="21"><b>-啊... -好轻松
+</b></font><font face="方正综艺_GBK" size="14"><b>- Uh-- - The Big Easy.</b></font>
+
+154
+00:30:37,670 --> 00:30:40,010
+<font face="方正黑体_GBK" size="21"><b>好轻松 没错 我正要去那里
+</b></font><font face="方正综艺_GBK" size="14"><b>The Big Easy. That's right. I was getting there.</b></font>
+
+155
+00:30:43,280 --> 00:30:46,470
+<font face="方正黑体_GBK" size="21"><b>那里有很多历史 对吧
+</b></font><font face="方正综艺_GBK" size="14"><b>There's a lot of history down there, you know?</b></font>
+
+156
+00:30:49,410 --> 00:30:51,180
+<font face="方正黑体_GBK" size="21"><b>你在城里工作
+</b></font><font face="方正综艺_GBK" size="14"><b>You work in town?</b></font>
+
+157
+00:30:51,220 --> 00:30:52,890
+<font face="方正黑体_GBK" size="21"><b>我在大学里教书
+</b></font><font face="方正综艺_GBK" size="14"><b>I teach at the university.</b></font>
+
+158
+00:30:53,450 --> 00:30:54,650
+<font face="方正黑体_GBK" size="21"><b>是这样吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Is that right?</b></font>
+
+159
+00:30:55,960 --> 00:30:57,160
+<font face="方正黑体_GBK" size="21"><b>你教什么科目
+</b></font><font face="方正综艺_GBK" size="14"><b>What subject you teach?</b></font>
+
+160
+00:30:57,720 --> 00:31:01,960
+<font face="方正黑体_GBK" size="21"><b>不好意思 这跟我们讨论的话题有关吗
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm sorry. Is this relevant?</b></font>
+
+161
+00:31:06,530 --> 00:31:09,200
+<font face="方正黑体_GBK" size="21"><b>好吧 抱歉
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah. Sorry.</b></font>
+
+162
+00:31:11,040 --> 00:31:16,500
+<font face="方正黑体_GBK" size="21"><b>你说你第一次直接接触 你唯一直接接触的是
+</b></font><font face="方正综艺_GBK" size="14"><b>Um, you said your first direct contact-- your only direct</b></font>
+
+163
+00:31:16,540 --> 00:31:18,410
+<font face="方正黑体_GBK" size="21"><b>他们停车时的车道上
+</b></font><font face="方正综艺_GBK" size="14"><b>contact with them was in the driveway</b></font>
+
+164
+00:31:18,440 --> 00:31:19,710
+<font face="方正黑体_GBK" size="21"><b>当他们想要停车的时候
+</b></font><font face="方正综艺_GBK" size="14"><b>when they're trying to park?</b></font>
+
+165
+00:31:19,740 --> 00:31:21,950
+<font face="方正黑体_GBK" size="21"><b>两天前 没错
+</b></font><font face="方正综艺_GBK" size="14"><b>Two days ago. That's correct.</b></font>
+
+166
+00:31:21,980 --> 00:31:28,620
+<font face="方正黑体_GBK" size="21"><b>好的 他们当时有没有威胁过你
+</b></font><font face="方正综艺_GBK" size="14"><b>Okay. And, uh, did they threaten you at all that time?</b></font>
+
+167
+00:31:28,650 --> 00:31:32,260
+<font face="方正黑体_GBK" size="21"><b>不是很明显 但我肯定是
+</b></font><font face="方正综艺_GBK" size="14"><b>Not overtly, but I have definitely</b></font>
+
+168
+00:31:32,290 --> 00:31:33,650
+<font face="方正黑体_GBK" size="21"><b>被威胁到了
+</b></font><font face="方正综艺_GBK" size="14"><b>been made to feel threatened.</b></font>
+
+169
+00:31:37,000 --> 00:31:38,300
+<font face="方正黑体_GBK" size="21"><b>好的 呃...
+</b></font><font face="方正综艺_GBK" size="14"><b>Okay. Um...</b></font>
+
+170
+00:31:39,530 --> 00:31:40,940
+<font face="方正黑体_GBK" size="21"><b>吉德里女士
+</b></font><font face="方正综艺_GBK" size="14"><b>Ms. Guidry.</b></font>
+
+171
+00:31:43,100 --> 00:31:46,300
+<font face="方正黑体_GBK" size="21"><b>在自然环境中 如果你在你的地盘上截住了人
+</b></font><font face="方正综艺_GBK" size="14"><b>City environment, you catch somebody on your property,</b></font>
+
+172
+00:31:46,340 --> 00:31:49,440
+<font face="方正黑体_GBK" size="21"><b>这是件坏事儿 所以你应该要联系执法部门 明白吗
+</b></font><font face="方正综艺_GBK" size="14"><b>that's a bad thing, so you contact law enforcement, right?</b></font>
+
+173
+00:31:50,340 --> 00:31:52,240
+<font face="方正黑体_GBK" size="21"><b>在这里 情况有点不同
+</b></font><font face="方正综艺_GBK" size="14"><b>Out here, things are a little different.</b></font>
+
+174
+00:31:52,280 --> 00:31:56,180
+<font face="方正黑体_GBK" size="21"><b>一般来说 人们倾向于
+</b></font><font face="方正综艺_GBK" size="14"><b>And people, generally, they tend to handle</b></font>
+
+175
+00:31:56,220 --> 00:31:58,610
+<font face="方正黑体_GBK" size="21"><b>自己处理这类事情
+</b></font><font face="方正综艺_GBK" size="14"><b>this sort of thing amongst themselves.</b></font>
+
+176
+00:32:00,290 --> 00:32:02,020
+<font face="方正黑体_GBK" size="21"><b>你心里清楚 你放手不管小事儿
+</b></font><font face="方正综艺_GBK" size="14"><b>You know, you let the small things</b></font>
+
+177
+00:32:02,060 --> 00:32:04,320
+<font face="方正黑体_GBK" size="21"><b>是为了避免将来出现更大的问题...
+</b></font><font face="方正综艺_GBK" size="14"><b>go to avoid a bigger problem down the road--</b></font>
+
+178
+00:32:04,360 --> 00:32:08,030
+<font face="方正黑体_GBK" size="21"><b>警官 他们朝我的门射了一箭
+</b></font><font face="方正综艺_GBK" size="14"><b>Officer, they shot an arrow into my door.</b></font>
+
+179
+00:32:08,060 --> 00:32:12,030
+<font face="方正黑体_GBK" size="21"><b>我明白 但你确实拖了他们的卡车
+</b></font><font face="方正综艺_GBK" size="14"><b>I understand that, but you did tow their truck.</b></font>
+
+180
+00:32:14,760 --> 00:32:17,170
+<font face="方正黑体_GBK" size="21"><b>也许我不该那样做
+</b></font><font face="方正综艺_GBK" size="14"><b>Perhaps I should not have done that,</b></font>
+
+181
+00:32:17,200 --> 00:32:19,070
+<font face="方正黑体_GBK" size="21"><b>但我完全有权利这么做
+</b></font><font face="方正综艺_GBK" size="14"><b>but I was well within my rights.</b></font>
+
+182
+00:32:19,110 --> 00:32:21,210
+<font face="方正黑体_GBK" size="21"><b>噢 你当然可以
+</b></font><font face="方正综艺_GBK" size="14"><b>Oh, of course you were. Of course.</b></font>
+
+183
+00:32:21,240 --> 00:32:25,440
+<font face="方正黑体_GBK" size="21"><b>但你可以看到 你知道的 这种事情可能会
+</b></font><font face="方正综艺_GBK" size="14"><b>But you can see how that sort of thing, you know,</b></font>
+
+184
+00:32:25,480 --> 00:32:26,670
+<font face="方正黑体_GBK" size="21"><b>让一个人心烦意乱
+</b></font><font face="方正综艺_GBK" size="14"><b>might upset a person.</b></font>
+
+185
+00:32:27,810 --> 00:32:30,450
+<font face="方正黑体_GBK" size="21"><b>我得警告你 这两位先生
+</b></font><font face="方正综艺_GBK" size="14"><b>And I've got to warn you, that these two gentlemen,</b></font>
+
+186
+00:32:30,480 --> 00:32:33,190
+<font face="方正黑体_GBK" size="21"><b>他们很可能会看到你又一次把事态升级
+</b></font><font face="方正综艺_GBK" size="14"><b>they are likely to see you're involving the local</b></font>
+
+187
+00:32:33,220 --> 00:32:36,020
+<font face="方正黑体_GBK" size="21"><b>从而涉及到当地的治安部门
+</b></font><font face="方正综艺_GBK" size="14"><b>sheriff's department as yet another escalation.</b></font>
+
+188
+00:32:39,260 --> 00:32:41,190
+<font face="方正黑体_GBK" size="21"><b>你为何一直称他们为绅士
+</b></font><font face="方正综艺_GBK" size="14"><b>Why do you keep calling them gentlemen?</b></font>
+
+189
+00:32:51,500 --> 00:32:55,140
+<font face="方正黑体_GBK" size="21"><b>你看到他们的车牌号了吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Did you happen to catch their license plate?</b></font>
+
+190
+00:32:57,150 --> 00:33:00,010
+<font face="方正黑体_GBK" size="21"><b>2-3-8-3-9-5
+</b></font><font face="方正综艺_GBK" size="14"><b>2-3-8-3-9-5.</b></font>
+
+191
+00:33:08,350 --> 00:33:12,090
+<font face="方正黑体_GBK" size="21"><b>你为什么要收集这些东西
+</b></font><font face="方正综艺_GBK" size="14"><b>And why did you collect all of this, exactly?</b></font>
+
+192
+00:33:12,130 --> 00:33:14,750
+<font face="方正黑体_GBK" size="21"><b>我的意思是 大多数人 他们不会想保留
+</b></font><font face="方正综艺_GBK" size="14"><b>I mean, most folks, they wouldn't think to keep</b></font>
+
+193
+00:33:14,790 --> 00:33:16,200
+<font face="方正黑体_GBK" size="21"><b>所有这些东西
+</b></font><font face="方正综艺_GBK" size="14"><b>all of this stuff.</b></font>
+
+194
+00:33:17,430 --> 00:33:19,260
+<font face="方正黑体_GBK" size="21"><b>我想我不是什么大多数人
+</b></font><font face="方正综艺_GBK" size="14"><b>I guess I'm not most folks.</b></font>
+
+195
+00:33:22,270 --> 00:33:24,760
+<font face="方正黑体_GBK" size="21"><b>是的 所以...
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah. So...</b></font>
+
+196
+00:33:27,410 --> 00:33:29,140
+<font face="方正黑体_GBK" size="21"><b>好的 感谢你抽出时间
+</b></font><font face="方正综艺_GBK" size="14"><b>Well, thank you for your time.</b></font>
+
+197
+00:33:31,110 --> 00:33:32,380
+<font face="方正黑体_GBK" size="21"><b>所以 接下来要怎么做
+</b></font><font face="方正综艺_GBK" size="14"><b>So, what happens now?</b></font>
+
+198
+00:33:35,610 --> 00:33:37,810
+<font face="方正黑体_GBK" size="21"><b>我很清楚这些人是谁
+</b></font><font face="方正综艺_GBK" size="14"><b>Well, I've got a pretty good idea who these boys are,</b></font>
+
+199
+00:33:37,850 --> 00:33:39,850
+<font face="方正黑体_GBK" size="21"><b>所以让我来做他们的思想工作
+</b></font><font face="方正综艺_GBK" size="14"><b>so I work with them,</b></font>
+
+200
+00:33:39,880 --> 00:33:41,450
+<font face="方正黑体_GBK" size="21"><b>看看我是否可以解决这个问题
+</b></font><font face="方正综艺_GBK" size="14"><b>see if I can't straighten this out.</b></font>
+
+201
+00:33:41,490 --> 00:33:43,680
+<font face="方正黑体_GBK" size="21"><b>好极了 我去拿外套
+</b></font><font face="方正综艺_GBK" size="14"><b>Great. I'll get my coat.</b></font>
+
+202
+00:33:44,650 --> 00:33:47,360
+<font face="方正黑体_GBK" size="21"><b>女士 你真的没必要和我一同前往
+</b></font><font face="方正综艺_GBK" size="14"><b>Ma'am, there's really no need for you to come along.</b></font>
+
+203
+00:34:12,750 --> 00:34:14,150
+<font face="方正黑体_GBK" size="21"><b>你好
+</b></font><font face="方正综艺_GBK" size="14"><b>Hello.</b></font>
+
+204
+00:34:15,550 --> 00:34:16,820
+<font face="方正黑体_GBK" size="21"><b>今天这里怎么样了
+</b></font><font face="方正综艺_GBK" size="14"><b>How's it going in here, today?</b></font>
+
+205
+00:34:16,850 --> 00:34:18,550
+<font face="方正黑体_GBK" size="21"><b>她跑来这里干什么 格斯
+</b></font><font face="方正综艺_GBK" size="14"><b>What is she doing here, Gus?</b></font>
+
+206
+00:34:19,660 --> 00:34:21,690
+<font face="方正黑体_GBK" size="21"><b>-女士 你有什么问题... -嘿 嘿 嘿
+</b></font><font face="方正综艺_GBK" size="14"><b>- Lady, what is your problem-- - Hey, hey, hey</b></font>
+
+207
+00:34:21,720 --> 00:34:24,590
+<font face="方正黑体_GBK" size="21"><b>我们放松点 好吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Let's just relax here, okay?</b></font>
+
+208
+00:34:24,630 --> 00:34:26,530
+<font face="方正黑体_GBK" size="21"><b>你没必要和她说话
+</b></font><font face="方正综艺_GBK" size="14"><b>There's no need for you to talk to her.</b></font>
+
+209
+00:34:26,560 --> 00:34:29,140
+<font face="方正黑体_GBK" size="21"><b>你只管跟我说话 保持礼貌
+</b></font><font face="方正综艺_GBK" size="14"><b>You just talk to me. Keep it civil.</b></font>
+
+210
+00:34:30,630 --> 00:34:32,240
+<font face="方正黑体_GBK" size="21"><b>我们现在就开始吗 格斯
+</b></font><font face="方正综艺_GBK" size="14"><b>We're gonna do this right now, Gus?</b></font>
+
+211
+00:34:33,340 --> 00:34:35,240
+<font face="方正黑体_GBK" size="21"><b>在这里我做的是正当的工作
+</b></font><font face="方正综艺_GBK" size="14"><b>This is honest work I'm doing here.</b></font>
+
+212
+00:34:35,280 --> 00:34:36,870
+<font face="方正黑体_GBK" size="21"><b>你会害我被解雇的
+</b></font><font face="方正综艺_GBK" size="14"><b>You're gonna get me fired.</b></font>
+
+213
+00:34:36,900 --> 00:34:38,870
+<font face="方正黑体_GBK" size="21"><b>我不会害你被解雇的 我保证 好吗
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm not gonna get you fired. I promise. Okay?</b></font>
+
+214
+00:34:38,910 --> 00:34:42,680
+<font face="方正黑体_GBK" size="21"><b>看来你们昨晚在她门上射了一箭
+</b></font><font face="方正综艺_GBK" size="14"><b>It seems you boys put an arrow in her door last night.</b></font>
+
+215
+00:34:42,710 --> 00:34:44,120
+<font face="方正黑体_GBK" size="21"><b>是这样吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Is that right?</b></font>
+
+216
+00:34:46,190 --> 00:34:47,680
+<font face="方正黑体_GBK" size="21"><b>不 我什么都不知道
+</b></font><font face="方正综艺_GBK" size="14"><b>No, I don't know anything about that.</b></font>
+
+217
+00:34:48,520 --> 00:34:50,880
+<font face="方正黑体_GBK" size="21"><b>她有没有告诉你她差点弄坏我的车轴
+</b></font><font face="方正综艺_GBK" size="14"><b>Did she tell you that she damn near broke my fucking axle?</b></font>
+
+218
+00:34:50,920 --> 00:34:52,820
+<font face="方正黑体_GBK" size="21"><b>嘿 放松点 好吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Hey, let's just relax. Okay?</b></font>
+
+219
+00:34:52,850 --> 00:34:54,520
+<font face="方正黑体_GBK" size="21"><b>她对你很坦诚
+</b></font><font face="方正综艺_GBK" size="14"><b>She's pretty up front with you.</b></font>
+
+220
+00:34:55,360 --> 00:34:57,230
+<font face="方正黑体_GBK" size="21"><b>她只是不希望你出现在她的地盘上
+</b></font><font face="方正综艺_GBK" size="14"><b>She doesn't want you on her property.</b></font>
+
+221
+00:34:57,270 --> 00:34:58,790
+<font face="方正黑体_GBK" size="21"><b>你得尊重这一点儿 好吗
+</b></font><font face="方正综艺_GBK" size="14"><b>You got to respect that, all right?</b></font>
+
+222
+00:34:58,830 --> 00:35:00,400
+<font face="方正黑体_GBK" size="21"><b>这很有趣
+</b></font><font face="方正综艺_GBK" size="14"><b>That's pretty funny.</b></font>
+
+223
+00:35:00,430 --> 00:35:02,140
+<font face="方正黑体_GBK" size="21"><b>你说的是尊重 警长
+</b></font><font face="方正综艺_GBK" size="14"><b>You talking about respect, Sheriff.</b></font>
+
+224
+00:35:05,670 --> 00:35:07,440
+<font face="方正黑体_GBK" size="21"><b>我不是警长 你知道的
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm not the sheriff and you know that.</b></font>
+
+225
+00:35:08,670 --> 00:35:10,380
+<font face="方正黑体_GBK" size="21"><b>我是代理警长
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm the acting sheriff.</b></font>
+
+226
+00:35:14,880 --> 00:35:16,580
+<font face="方正黑体_GBK" size="21"><b>好吧 该死 伙计
+</b></font><font face="方正综艺_GBK" size="14"><b>All right, shit, man.</b></font>
+
+227
+00:35:16,610 --> 00:35:18,550
+<font face="方正黑体_GBK" size="21"><b>-我们能结束这一切吗 -是啊 我们可以结束了
+</b></font><font face="方正综艺_GBK" size="14"><b>- Can we wrap this up? - Yeah, we can wrap it up.</b></font>
+
+228
+00:35:20,490 --> 00:35:22,390
+<font face="方正黑体_GBK" size="21"><b>离她那该死的房子远点儿
+</b></font><font face="方正综艺_GBK" size="14"><b>You stay off her goddamn property.</b></font>
+
+229
+00:35:22,420 --> 00:35:24,220
+<font face="方正黑体_GBK" size="21"><b>去找别的地方打猎吧
+</b></font><font face="方正综艺_GBK" size="14"><b>You find someplace else to hunt.</b></font>
+
+230
+00:35:25,260 --> 00:35:26,460
+<font face="方正黑体_GBK" size="21"><b>清楚了吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Is that clear?</b></font>
+
+231
+00:35:31,600 --> 00:35:33,660
+<font face="方正黑体_GBK" size="21"><b>不 你得说出来
+</b></font><font face="方正综艺_GBK" size="14"><b>No, you gotta say it.</b></font>
+
+232
+00:35:36,440 --> 00:35:39,240
+<font face="方正黑体_GBK" size="21"><b>-是的 -是的 什么
+</b></font><font face="方正综艺_GBK" size="14"><b>- Yep. - Yeah, what?</b></font>
+
+233
+00:35:41,770 --> 00:35:43,440
+<font face="方正黑体_GBK" size="21"><b>-是的 我们清楚了 -好极了
+</b></font><font face="方正综艺_GBK" size="14"><b>- Yeah, we're clear. - Great.</b></font>
+
+234
+00:35:46,380 --> 00:35:47,580
+<font face="方正黑体_GBK" size="21"><b>酷
+</b></font><font face="方正综艺_GBK" size="14"><b>Cool.</b></font>
+
+235
+00:35:50,950 --> 00:35:52,420
+<font face="方正黑体_GBK" size="21"><b>在哪儿能找到你弟弟
+</b></font><font face="方正综艺_GBK" size="14"><b>Now, where can I find your brother?</b></font>
+
+236
+00:36:14,870 --> 00:36:16,640
+<font face="方正黑体_GBK" size="21"><b>和我预想中的不一样
+</b></font><font face="方正综艺_GBK" size="14"><b>Not what I was expecting.</b></font>
+
+237
+00:36:16,670 --> 00:36:20,910
+<font face="方正黑体_GBK" size="21"><b>听着 我不能阻止你跟着我
+</b></font><font face="方正综艺_GBK" size="14"><b>Look, I can't stop you from tagging along,</b></font>
+
+238
+00:36:22,780 --> 00:36:25,320
+<font face="方正黑体_GBK" size="21"><b>但我不是来聊天的 好吗
+</b></font><font face="方正综艺_GBK" size="14"><b>but I'm not here to chit chat, okay?</b></font>
+
+239
+00:36:34,960 --> 00:36:36,060
+<font face="方正黑体_GBK" size="21"><b>我们要呼叫支援吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Should we call for backup?</b></font>
+
+240
+00:36:37,460 --> 00:36:39,660
+<font face="方正黑体_GBK" size="21"><b>什么支援 我们有两名警官在300平方英里范围内巡逻
+</b></font><font face="方正综艺_GBK" size="14"><b>What backup? We've got two officers to cover 300 square</b></font>
+
+241
+00:36:39,700 --> 00:36:41,860
+<font face="方正黑体_GBK" size="21"><b>其中一人目前正在行政休假
+</b></font><font face="方正综艺_GBK" size="14"><b>miles and one of them's currently</b></font>
+
+242
+00:36:41,900 --> 00:36:45,270
+<font face="方正黑体_GBK" size="21"><b>所以只剩下我了
+</b></font><font face="方正综艺_GBK" size="14"><b>on administrative leave. So that leaves me.</b></font>
+
+243
+00:36:46,470 --> 00:36:47,670
+<font face="方正黑体_GBK" size="21"><b>另一个怎么了
+</b></font><font face="方正综艺_GBK" size="14"><b>What happened to the other one?</b></font>
+
+244
+00:36:51,710 --> 00:36:53,710
+<font face="方正黑体_GBK" size="21"><b>关于闲聊我是怎么说的
+</b></font><font face="方正综艺_GBK" size="14"><b>What'd I say about chit chat?</b></font>
+
+245
+00:37:03,750 --> 00:37:04,980
+<font face="方正黑体_GBK" size="21"><b>怎么了
+</b></font><font face="方正综艺_GBK" size="14"><b>What?</b></font>
+
+246
+00:37:20,870 --> 00:37:22,470
+<font face="方正黑体_GBK" size="21"><b>我们要怎么做
+</b></font><font face="方正综艺_GBK" size="14"><b>How we doin'?</b></font>
+
+247
+00:37:25,110 --> 00:37:26,510
+<font face="方正黑体_GBK" size="21"><b>帮我个忙
+</b></font><font face="方正综艺_GBK" size="14"><b>Do me a favor.</b></font>
+
+248
+00:37:28,480 --> 00:37:30,980
+<font face="方正黑体_GBK" size="21"><b>把你的面具取下来 我想看看我在跟谁说话
+</b></font><font face="方正综艺_GBK" size="14"><b>Take your mask down, I like to see who I'm talking to.</b></font>
+
+249
+00:37:35,560 --> 00:37:36,790
+<font face="方正黑体_GBK" size="21"><b>你听到了吗 孩子
+</b></font><font face="方正综艺_GBK" size="14"><b>Do you hear me, son?</b></font>
+
+250
+00:37:38,120 --> 00:37:39,520
+<font face="方正黑体_GBK" size="21"><b>支持你这么做
+</b></font><font face="方正综艺_GBK" size="14"><b>Behind you.</b></font>
+
+251
+00:37:46,700 --> 00:37:48,030
+<font face="方正黑体_GBK" size="21"><b>下午好 先生们
+</b></font><font face="方正综艺_GBK" size="14"><b>Afternoon, gentlemen.</b></font>
+
+252
+00:37:50,870 --> 00:37:53,340
+<font face="方正黑体_GBK" size="21"><b>我不是要来逮捕谁的
+</b></font><font face="方正综艺_GBK" size="14"><b>Now, I'm not here to arrest anybody.</b></font>
+
+253
+00:37:56,680 --> 00:37:59,040
+<font face="方正黑体_GBK" size="21"><b>只是想跟你们其中一个说句话
+</b></font><font face="方正综艺_GBK" size="14"><b>Just need to have a word with one of you boys.</b></font>
+
+254
+00:38:03,680 --> 00:38:06,720
+<font face="方正黑体_GBK" size="21"><b>怎么回事儿 伙计们 我知道你们都能听到我在说什么
+</b></font><font face="方正综艺_GBK" size="14"><b>What's the deal, guys? I know you can hear me.</b></font>
+
+255
+00:38:11,020 --> 00:38:15,630
+<font face="方正黑体_GBK" size="21"><b>好了 大家往前一步
+</b></font><font face="方正综艺_GBK" size="14"><b>Okay. Everybody step forward!</b></font>
+
+256
+00:38:15,660 --> 00:38:18,600
+<font face="方正黑体_GBK" size="21"><b>把锯子放下 把面具摘下来
+</b></font><font face="方正综艺_GBK" size="14"><b>You put your saws down, you take your masks off!</b></font>
+
+257
+00:38:18,630 --> 00:38:21,060
+<font face="方正黑体_GBK" size="21"><b>还有什么 你要开枪打我们吗 沃尔夫
+</b></font><font face="方正综艺_GBK" size="14"><b>Or what? You're gonna shoot us, Wolf?</b></font>
+
+258
+00:38:22,670 --> 00:38:24,370
+<font face="方正黑体_GBK" size="21"><b>没有人要开枪
+</b></font><font face="方正综艺_GBK" size="14"><b>Nobody's shooting anybody.</b></font>
+
+259
+00:38:24,410 --> 00:38:27,030
+<font face="方正黑体_GBK" size="21"><b>是啊 你怎么不去跟我表弟说
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah. Why don't you tell that to my cousin.</b></font>
+
+260
+00:38:29,100 --> 00:38:30,740
+<font face="方正黑体_GBK" size="21"><b>我没开枪打你表弟...
+</b></font><font face="方正综艺_GBK" size="14"><b>I didn't shoot your cousin--</b></font>
+
+261
+00:38:30,780 --> 00:38:32,680
+<font face="方正黑体_GBK" size="21"><b>是你那该死的老板干的
+</b></font><font face="方正综艺_GBK" size="14"><b>Your piece of shit boss did.</b></font>
+
+262
+00:38:32,710 --> 00:38:35,750
+<font face="方正黑体_GBK" size="21"><b>现在他正在领取风险津贴
+</b></font><font face="方正综艺_GBK" size="14"><b>Now he's collecting hazard pay with his feet kicked up.</b></font>
+
+263
+00:38:35,780 --> 00:38:37,710
+<font face="方正黑体_GBK" size="21"><b>我表弟的背上有一个洞...
+</b></font><font face="方正综艺_GBK" size="14"><b>My cousin got a hole in his back--</b></font>
+
+264
+00:38:37,750 --> 00:38:39,050
+<font face="方正黑体_GBK" size="21"><b>好了 该说的我都说了
+</b></font><font face="方正综艺_GBK" size="14"><b>All right, I'm done talking!</b></font>
+
+265
+00:38:40,420 --> 00:38:42,650
+<font face="方正黑体_GBK" size="21"><b>马上把面具摘下来
+</b></font><font face="方正综艺_GBK" size="14"><b>Take your masks off right now!</b></font>
+
+266
+00:38:42,690 --> 00:38:44,620
+<font face="方正黑体_GBK" size="21"><b>我们为啥要这样做
+</b></font><font face="方正综艺_GBK" size="14"><b>Why the fuck would we do that?</b></font>
+
+267
+00:38:44,660 --> 00:38:46,460
+<font face="方正黑体_GBK" size="21"><b>因为是我要你们这么做的 这就是为什么...
+</b></font><font face="方正综艺_GBK" size="14"><b>Because I told you to, that's why--</b></font>
+
+268
+00:38:46,490 --> 00:38:47,860
+<font face="方正黑体_GBK" size="21"><b>-去你的 沃尔夫 -操你大爷的
+</b></font><font face="方正综艺_GBK" size="14"><b>- Fuck you, Wolf. - Fuck you.</b></font>
+
+269
+00:38:47,890 --> 00:38:49,860
+<font face="方正黑体_GBK" size="21"><b>大家最好都冷静下来
+</b></font><font face="方正综艺_GBK" size="14"><b>Everybody better calm down!</b></font>
+
+270
+00:38:49,890 --> 00:38:51,700
+<font face="方正黑体_GBK" size="21"><b>你为啥要打开枪套
+</b></font><font face="方正综艺_GBK" size="14"><b>Yo, why you open your holster?</b></font>
+
+271
+00:38:51,730 --> 00:38:53,060
+<font face="方正黑体_GBK" size="21"><b>我不会再问你们第二遍
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm not gonna ask you again.</b></font>
+
+272
+00:38:53,090 --> 00:38:55,000
+<font face="方正黑体_GBK" size="21"><b>你为啥要打开枪套
+</b></font><font face="方正综艺_GBK" size="14"><b>Why did you open your fucking holster?</b></font>
+
+273
+00:38:55,030 --> 00:38:57,870
+<font face="方正黑体_GBK" size="21"><b>道基 该死的 我了解你 我认识你的家人
+</b></font><font face="方正综艺_GBK" size="14"><b>Dougie, goddamn it, I know you. I know your family.</b></font>
+
+274
+00:38:57,900 --> 00:38:59,800
+<font face="方正黑体_GBK" size="21"><b>-我不想伤害... -你也想杀了我们吗 猪头
+</b></font><font face="方正综艺_GBK" size="14"><b>- I don't wanna hurt-- - You wanna kill us too, pig?</b></font>
+
+275
+00:38:59,840 --> 00:39:01,770
+<font face="方正黑体_GBK" size="21"><b>-去你妈的... -他妈的往后退
+</b></font><font face="方正综艺_GBK" size="14"><b>- Fuck you-- - Back the fuck up and put--</b></font>
+
+276
+00:39:01,810 --> 00:39:03,000
+<font face="方正黑体_GBK" size="21"><b>嘿 嘿
+</b></font><font face="方正综艺_GBK" size="14"><b>Hey, hey!</b></font>
+
+277
+00:39:07,910 --> 00:39:09,380
+<font face="方正黑体_GBK" size="21"><b>你他妈的是谁啊
+</b></font><font face="方正综艺_GBK" size="14"><b>Who the fuck are you?</b></font>
+
+278
+00:39:12,520 --> 00:39:13,920
+<font face="方正黑体_GBK" size="21"><b>你在为你表弟的事儿生气
+</b></font><font face="方正综艺_GBK" size="14"><b>You're angry about your cousin.</b></font>
+
+279
+00:39:15,620 --> 00:39:16,850
+<font face="方正黑体_GBK" size="21"><b>而我也在生气
+</b></font><font face="方正综艺_GBK" size="14"><b>I'd be angry, too.</b></font>
+
+280
+00:39:17,760 --> 00:39:20,020
+<font face="方正黑体_GBK" size="21"><b>不管是谁干的 都应该被绳之以法
+</b></font><font face="方正综艺_GBK" size="14"><b>And whoever did it should be brought to justice.</b></font>
+
+281
+00:39:20,060 --> 00:39:22,090
+<font face="方正黑体_GBK" size="21"><b>如果是该死的警长开的枪
+</b></font><font face="方正综艺_GBK" size="14"><b>How is that gonna happen if it was the fuckin'</b></font>
+
+282
+00:39:22,120 --> 00:39:24,060
+<font face="方正黑体_GBK" size="21"><b>那会怎么样
+</b></font><font face="方正综艺_GBK" size="14"><b>sheriff who pulled the trigger?</b></font>
+
+283
+00:39:24,090 --> 00:39:27,600
+<font face="方正黑体_GBK" size="21"><b>尤其是如果是该死的警长... 对吧
+</b></font><font face="方正综艺_GBK" size="14"><b>Especially if it was the fuckin' sheriff... right?</b></font>
+
+284
+00:39:28,800 --> 00:39:32,570
+<font face="方正黑体_GBK" size="21"><b>如果这都能奏效 那我们就必须遵守同样的规则
+</b></font><font face="方正综艺_GBK" size="14"><b>We all gotta play by the same rules if this is gonna work.</b></font>
+
+285
+00:39:36,170 --> 00:39:37,710
+<font face="方正黑体_GBK" size="21"><b>治安官现在在哪儿
+</b></font><font face="方正综艺_GBK" size="14"><b>Where is the sheriff, right now?</b></font>
+
+286
+00:39:39,610 --> 00:39:43,550
+<font face="方正黑体_GBK" size="21"><b>可能是在佛罗里达州或其他地方 晒着他的糊状屁股
+</b></font><font face="方正综艺_GBK" size="14"><b>Probably Florida or something, tanning his pasty ass.</b></font>
+
+287
+00:39:43,580 --> 00:39:46,450
+<font face="方正黑体_GBK" size="21"><b>好吧 但他不在这里
+</b></font><font face="方正综艺_GBK" size="14"><b>Right. But he's not here.</b></font>
+
+288
+00:39:48,620 --> 00:39:52,990
+<font face="方正黑体_GBK" size="21"><b>这里没有人与你表弟的枪击案有关
+</b></font><font face="方正综艺_GBK" size="14"><b>No one here was involved with your cousin's shooting.</b></font>
+
+289
+00:39:54,060 --> 00:39:55,460
+<font face="方正黑体_GBK" size="21"><b>对吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Correct?</b></font>
+
+290
+00:39:59,500 --> 00:40:00,700
+<font face="方正黑体_GBK" size="21"><b>好的
+</b></font><font face="方正综艺_GBK" size="14"><b>Okay.</b></font>
+
+291
+00:40:05,940 --> 00:40:07,470
+<font face="方正黑体_GBK" size="21"><b>现在 我们会给你们让路
+</b></font><font face="方正综艺_GBK" size="14"><b>Now, we'll get out of your way.</b></font>
+
+292
+00:40:08,940 --> 00:40:10,140
+<font face="方正黑体_GBK" size="21"><b>没有人会受到伤害
+</b></font><font face="方正综艺_GBK" size="14"><b>There's no harm done.</b></font>
+
+293
+00:40:13,270 --> 00:40:14,940
+<font face="方正黑体_GBK" size="21"><b>我为你的家人逝去表示遗憾
+</b></font><font face="方正综艺_GBK" size="14"><b>And I'm sorry for your family.</b></font>
+
+294
+00:40:49,780 --> 00:40:52,050
+<font face="方正黑体_GBK" size="21"><b>这是一个很大的成功
+</b></font><font face="方正综艺_GBK" size="14"><b>Well, that was a big success.</b></font>
+
+295
+00:40:52,080 --> 00:40:54,590
+<font face="方正黑体_GBK" size="21"><b>真高兴你今天来了
+</b></font><font face="方正综艺_GBK" size="14"><b>Really glad you came along today.</b></font>
+
+296
+00:40:55,120 --> 00:40:57,590
+<font face="方正黑体_GBK" size="21"><b>我告诉过你 在这里
+</b></font><font face="方正综艺_GBK" size="14"><b>I told you that around here,</b></font>
+
+297
+00:40:57,630 --> 00:41:00,190
+<font face="方正黑体_GBK" size="21"><b>联系当局只会让事情变得更糟
+</b></font><font face="方正综艺_GBK" size="14"><b>contacting authorities only makes things worse.</b></font>
+
+298
+00:41:01,700 --> 00:41:03,060
+<font face="方正黑体_GBK" size="21"><b>那么你的意义何在
+</b></font><font face="方正综艺_GBK" size="14"><b>Then what is the point of you?</b></font>
+
+299
+00:41:03,900 --> 00:41:05,900
+<font face="方正黑体_GBK" size="21"><b>你到底是做什么的
+</b></font><font face="方正综艺_GBK" size="14"><b>What exactly do you do?</b></font>
+
+300
+00:41:05,930 --> 00:41:08,730
+<font face="方正黑体_GBK" size="21"><b>是啊 不如你来告诉我该怎么做 那就太好了
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah, why don't you tell me how to do my job? That'd be great.</b></font>
+
+301
+00:41:08,770 --> 00:41:10,900
+<font face="方正黑体_GBK" size="21"><b>我在自己家里没有安全感
+</b></font><font face="方正综艺_GBK" size="14"><b>I don't feel safe in my own house.</b></font>
+
+302
+00:41:12,000 --> 00:41:14,970
+<font face="方正黑体_GBK" size="21"><b>我应该可以打电话给警察
+</b></font><font face="方正综艺_GBK" size="14"><b>I should be able to call the police and have</b></font>
+
+303
+00:41:15,010 --> 00:41:17,170
+<font face="方正黑体_GBK" size="21"><b>然后有信心我的担忧会得到解决
+</b></font><font face="方正综艺_GBK" size="14"><b>the confidence that my concerns will be addressed.</b></font>
+
+304
+00:41:17,210 --> 00:41:18,880
+<font face="方正黑体_GBK" size="21"><b>女士 这整个州的法律
+</b></font><font face="方正综艺_GBK" size="14"><b>Ma'am, there isn't enough law</b></font>
+
+305
+00:41:18,910 --> 00:41:21,240
+<font face="方正黑体_GBK" size="21"><b>都不足以让你感到安全
+</b></font><font face="方正综艺_GBK" size="14"><b>in this whole state to make you feel safe.</b></font>
+
+306
+00:41:21,810 --> 00:41:23,910
+<font face="方正黑体_GBK" size="21"><b>现在 如果你想住在峡谷的中央
+</b></font><font face="方正综艺_GBK" size="14"><b>Now, you want to live out in the middle of a canyon,</b></font>
+
+307
+00:41:23,950 --> 00:41:25,780
+<font face="方正黑体_GBK" size="21"><b>那你就只能靠你自己了
+</b></font><font face="方正综艺_GBK" size="14"><b>you're on your own.</b></font>
+
+308
+00:41:25,820 --> 00:41:27,650
+<font face="方正黑体_GBK" size="21"><b>如果你处理不好这个问题 我听说他们
+</b></font><font face="方正综艺_GBK" size="14"><b>And if you can't handle that, I hear they're putting</b></font>
+
+309
+00:41:27,690 --> 00:41:29,180
+<font face="方正黑体_GBK" size="21"><b>在大学附近建了一些漂亮的公寓
+</b></font><font face="方正综艺_GBK" size="14"><b>up some nice condos over by the college.</b></font>
+
+310
+00:41:29,950 --> 00:41:31,890
+<font face="方正黑体_GBK" size="21"><b>或者你可以回去“好轻松”
+</b></font><font face="方正综艺_GBK" size="14"><b>Or you could go back to The Big Easy.</b></font>
+
+311
+00:43:01,340 --> 00:43:03,650
+<font face="方正黑体_GBK" size="21"><b>你好
+</b></font><font face="方正综艺_GBK" size="14"><b>Hello?</b></font>
+
+312
+00:43:03,690 --> 00:43:05,280
+<font face="方正黑体_GBK" size="21"><b>亚瑟 我是桑德拉
+</b></font><font face="方正综艺_GBK" size="14"><b>Arthur. It's Sandra.</b></font>
+
+313
+00:43:06,890 --> 00:43:08,690
+<font face="方正黑体_GBK" size="21"><b>桑德拉 现在是凌晨零时
+</b></font><font face="方正综艺_GBK" size="14"><b>Sandra, it's- 00 in the morning.</b></font>
+
+314
+00:43:08,720 --> 00:43:10,820
+<font face="方正黑体_GBK" size="21"><b>你的院子里有两个人
+</b></font><font face="方正综艺_GBK" size="14"><b>You've got two guys in your yard</b></font>
+
+315
+00:43:10,860 --> 00:43:12,790
+<font face="方正黑体_GBK" size="21"><b>想闯进我的地盘
+</b></font><font face="方正综艺_GBK" size="14"><b>trying to get on my property.</b></font>
+
+316
+00:43:12,830 --> 00:43:14,690
+<font face="方正黑体_GBK" size="21"><b>噢 什么
+</b></font><font face="方正综艺_GBK" size="14"><b>Oh. What?</b></font>
+
+317
+00:43:14,730 --> 00:43:16,160
+<font face="方正黑体_GBK" size="21"><b>什么... 什么人 你在说什么
+</b></font><font face="方正综艺_GBK" size="14"><b>What-- What guys, what are you talking about?</b></font>
+
+318
+00:43:16,190 --> 00:43:17,900
+<font face="方正黑体_GBK" size="21"><b>猎人
+</b></font><font face="方正综艺_GBK" size="14"><b>The hunters.</b></font>
+
+319
+00:43:17,930 --> 00:43:19,730
+<font face="方正黑体_GBK" size="21"><b>我不会让他们进入峡谷的
+</b></font><font face="方正综艺_GBK" size="14"><b>I wouldn't let them into the canyon,</b></font>
+
+320
+00:43:19,770 --> 00:43:21,000
+<font face="方正黑体_GBK" size="21"><b>所以他们爬上了你的栅栏
+</b></font><font face="方正综艺_GBK" size="14"><b>so they climbed your fence.</b></font>
+
+321
+00:43:24,430 --> 00:43:26,230
+<font face="方正黑体_GBK" size="21"><b>那你想让我怎么做
+</b></font><font face="方正综艺_GBK" size="14"><b>So, what do you want me to do about it?</b></font>
+
+322
+00:43:27,240 --> 00:43:28,910
+<font face="方正黑体_GBK" size="21"><b>有持枪的人
+</b></font><font face="方正综艺_GBK" size="14"><b>There's guys with guns</b></font>
+
+323
+00:43:28,940 --> 00:43:30,910
+<font face="方正黑体_GBK" size="21"><b>未经允许就从你家的后门经过
+</b></font><font face="方正综艺_GBK" size="14"><b>walking by your back door without permission.</b></font>
+
+324
+00:43:43,190 --> 00:43:44,690
+<font face="方正黑体_GBK" size="21"><b>这和打猎无关
+</b></font><font face="方正综艺_GBK" size="14"><b>It's not about the hunting.</b></font>
+
+325
+00:43:46,760 --> 00:43:48,020
+<font face="方正黑体_GBK" size="21"><b>这些家伙不断回来
+</b></font><font face="方正综艺_GBK" size="14"><b>These guys keep coming back.</b></font>
+
+326
+00:43:51,260 --> 00:43:52,670
+<font face="方正黑体_GBK" size="21"><b>你认为这是为了什么
+</b></font><font face="方正综艺_GBK" size="14"><b>Why do you think that is?</b></font>
+
+327
+00:43:53,800 --> 00:43:55,770
+<font face="方正黑体_GBK" size="21"><b>我不知道 桑德拉
+</b></font><font face="方正综艺_GBK" size="14"><b>I don't-- I don't know, Sandra.</b></font>
+
+328
+00:43:55,800 --> 00:43:57,070
+<font face="方正黑体_GBK" size="21"><b>你为什么这么在乎
+</b></font><font face="方正综艺_GBK" size="14"><b>Why do you care so much?</b></font>
+
+329
+00:43:58,810 --> 00:44:01,910
+<font face="方正黑体_GBK" size="21"><b>继续睡吧
+</b></font><font face="方正综艺_GBK" size="14"><b>Go back to sleep.</b></font>
+
+330
+00:44:08,480 --> 00:44:10,980
+<font face="方正黑体_GBK" size="21"><b>闻起来像只鹿 拉出来的屎也像只鹿
+</b></font><font face="方正综艺_GBK" size="14"><b>Smells like a deer, shit's like a deer,</b></font>
+
+331
+00:44:11,020 --> 00:44:12,850
+<font face="方正黑体_GBK" size="21"><b>-是只该死的鹿 -闭嘴
+</b></font><font face="方正综艺_GBK" size="14"><b>- it's a fucking deer. - Shut up.</b></font>
+
+332
+00:44:14,380 --> 00:44:16,950
+<font face="方正黑体_GBK" size="21"><b>在那里待上几个小时
+</b></font><font face="方正综艺_GBK" size="14"><b>up there for a couple hours,</b></font>
+
+333
+00:44:16,990 --> 00:44:18,960
+<font face="方正黑体_GBK" size="21"><b>她就会从我们身边儿经过
+</b></font><font face="方正综艺_GBK" size="14"><b>she'll walk right past us.</b></font>
+
+334
+00:48:50,260 --> 00:48:51,970
+<font face="方正黑体_GBK" size="21"><b>你他妈的在这里干什么
+</b></font><font face="方正综艺_GBK" size="14"><b>The fuck are you doing here?</b></font>
+
+335
+00:49:01,110 --> 00:49:02,600
+<font face="方正黑体_GBK" size="21"><b>你在跟踪我吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Are you following me around?</b></font>
+
+336
+00:49:03,510 --> 00:49:05,110
+<font face="方正黑体_GBK" size="21"><b>你想说点什么
+</b></font><font face="方正综艺_GBK" size="14"><b>You trying to make some kind of point?</b></font>
+
+337
+00:49:08,510 --> 00:49:09,710
+<font face="方正黑体_GBK" size="21"><b>那是你妈妈吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Is that your mother?</b></font>
+
+338
+00:49:14,480 --> 00:49:18,590
+<font face="方正黑体_GBK" size="21"><b>是的 是啊 那又怎样
+</b></font><font face="方正综艺_GBK" size="14"><b>Yes. Yeah, what of it?</b></font>
+
+339
+00:49:20,790 --> 00:49:22,590
+<font face="方正黑体_GBK" size="21"><b>我母亲是一名风琴手
+</b></font><font face="方正综艺_GBK" size="14"><b>My mother was an organist.</b></font>
+
+340
+00:49:26,360 --> 00:49:28,560
+<font face="方正黑体_GBK" size="21"><b>在新奥尔良的教堂里
+</b></font><font face="方正综艺_GBK" size="14"><b>In our church back in New Orleans.</b></font>
+
+341
+00:49:31,300 --> 00:49:32,500
+<font face="方正黑体_GBK" size="21"><b>她过去经常玩这个
+</b></font><font face="方正综艺_GBK" size="14"><b>She used to play this.</b></font>
+
+342
+00:49:41,840 --> 00:49:43,250
+<font face="方正黑体_GBK" size="21"><b>她是吗
+</b></font><font face="方正综艺_GBK" size="14"><b>She did?</b></font>
+
+343
+00:49:47,320 --> 00:49:48,620
+<font face="方正黑体_GBK" size="21"><b>“美丽的救世主”
+</b></font><font face="方正综艺_GBK" size="14"><b>"Beautiful Savior."</b></font>
+
+344
+00:49:57,860 --> 00:49:59,260
+<font face="方正黑体_GBK" size="21"><b>请坐
+</b></font><font face="方正综艺_GBK" size="14"><b>Please, be seated.</b></font>
+
+345
+00:50:02,400 --> 00:50:03,660
+<font face="方正黑体_GBK" size="21"><b>上帝存善
+</b></font><font face="方正综艺_GBK" size="14"><b>God is good.</b></font>
+
+346
+00:50:04,400 --> 00:50:06,170
+<font face="方正黑体_GBK" size="21"><b>总是如此
+</b></font><font face="方正综艺_GBK" size="14"><b>All the time.</b></font>
+
+347
+00:50:06,210 --> 00:50:07,670
+<font face="方正黑体_GBK" size="21"><b>上帝存善
+</b></font><font face="方正综艺_GBK" size="14"><b>God is good.</b></font>
+
+348
+00:50:07,700 --> 00:50:09,440
+<font face="方正黑体_GBK" size="21"><b>兄弟姐妹们
+</b></font><font face="方正综艺_GBK" size="14"><b>Brothers and sisters,</b></font>
+
+349
+00:50:09,470 --> 00:50:14,080
+<font face="方正黑体_GBK" size="21"><b>让我们打开马太福音 第六章 第25节
+</b></font><font face="方正综艺_GBK" size="14"><b>let us open to Matthew, Chapter six, verse 25.</b></font>
+
+350
+00:50:14,120 --> 00:50:17,810
+<font face="方正黑体_GBK" size="21"><b>“因此 我告诉你们不要为你们的生活担忧
+</b></font><font face="方正综艺_GBK" size="14"><b>"Therefore, I tell you, do not worry about your life,</b></font>
+
+351
+00:50:17,840 --> 00:50:21,480
+<font face="方正黑体_GBK" size="21"><b>你们要吃什么 喝什么 或是关于你们的身体
+</b></font><font face="方正综艺_GBK" size="14"><b>what you will eat or drink or about your body.</b></font>
+
+352
+00:50:21,520 --> 00:50:22,850
+<font face="方正黑体_GBK" size="21"><b>你们要穿什么
+</b></font><font face="方正综艺_GBK" size="14"><b>What you will wear.</b></font>
+
+353
+00:50:22,880 --> 00:50:25,160
+<font face="方正黑体_GBK" size="21"><b>难道生命不比食物更重要
+</b></font><font face="方正综艺_GBK" size="14"><b>Is not life more than food</b></font>
+
+354
+00:50:25,190 --> 00:50:27,490
+<font face="方正黑体_GBK" size="21"><b>身体不比衣服更重要吗”
+</b></font><font face="方正综艺_GBK" size="14"><b>and the body more than clothes?"</b></font>
+
+355
+00:50:27,520 --> 00:50:28,790
+<font face="方正黑体_GBK" size="21"><b>你相信这些玩意儿
+</b></font><font face="方正综艺_GBK" size="14"><b>You believe in this stuff?</b></font>
+
+356
+00:50:30,790 --> 00:50:33,630
+<font face="方正黑体_GBK" size="21"><b>我做过一次 是的
+</b></font><font face="方正综艺_GBK" size="14"><b>I did, once. Yeah.</b></font>
+
+357
+00:50:37,370 --> 00:50:40,830
+<font face="方正黑体_GBK" size="21"><b>来这里找她 让她开心
+</b></font><font face="方正综艺_GBK" size="14"><b>Come here for her. Make her happy.</b></font>
+
+358
+00:50:40,870 --> 00:50:44,640
+<font face="方正黑体_GBK" size="21"><b>是的 我知道所有的情况
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah. I know all about that.</b></font>
+
+359
+00:50:51,650 --> 00:50:54,680
+<font face="方正黑体_GBK" size="21"><b>她在生活中忍受了很多糟心事儿
+</b></font><font face="方正综艺_GBK" size="14"><b>She put up with a lot of shit in her life.</b></font>
+
+360
+00:50:58,160 --> 00:51:00,190
+<font face="方正黑体_GBK" size="21"><b>她已经习惯了不快乐的生活
+</b></font><font face="方正综艺_GBK" size="14"><b>She got used to being unhappy.</b></font>
+
+361
+00:51:03,200 --> 00:51:04,230
+<font face="方正黑体_GBK" size="21"><b>是啊
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah.</b></font>
+
+362
+00:51:07,200 --> 00:51:08,430
+<font face="方正黑体_GBK" size="21"><b>是的
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah.</b></font>
+
+363
+00:51:08,470 --> 00:51:09,860
+<font face="方正黑体_GBK" size="21"><b>我的母亲也是如此
+</b></font><font face="方正综艺_GBK" size="14"><b>My mother had that.</b></font>
+
+364
+00:51:13,600 --> 00:51:17,140
+<font face="方正黑体_GBK" size="21"><b>她从未原谅我把她带到这里来
+</b></font><font face="方正综艺_GBK" size="14"><b>She never forgave me for bringing her up here.</b></font>
+
+365
+00:51:17,180 --> 00:51:19,150
+<font face="方正黑体_GBK" size="21"><b>她讨厌寒冷
+</b></font><font face="方正综艺_GBK" size="14"><b>She hated the cold.</b></font>
+
+366
+00:51:20,780 --> 00:51:23,180
+<font face="方正黑体_GBK" size="21"><b>每个人都讨厌寒冷
+</b></font><font face="方正综艺_GBK" size="14"><b>Everyone hates the cold.</b></font>
+
+367
+00:51:24,610 --> 00:51:26,450
+<font face="方正黑体_GBK" size="21"><b>真希望她能听到你这么说
+</b></font><font face="方正综艺_GBK" size="14"><b>I wish she could hear you say that.</b></font>
+
+368
+00:51:28,720 --> 00:51:30,750
+<font face="方正黑体_GBK" size="21"><b>我的母亲从未满足于此
+</b></font><font face="方正综艺_GBK" size="14"><b>My mother was never content.</b></font>
+
+369
+00:51:33,330 --> 00:51:35,790
+<font face="方正黑体_GBK" size="21"><b>她会抓住20年前发生的事情不放
+</b></font><font face="方正综艺_GBK" size="14"><b>She'd hold onto stuff that happened 20 years ago,</b></font>
+
+370
+00:51:35,820 --> 00:51:37,360
+<font face="方正黑体_GBK" size="21"><b>就像是昨天发生的一样
+</b></font><font face="方正综艺_GBK" size="14"><b>like it happened yesterday.</b></font>
+
+371
+00:51:41,330 --> 00:51:42,800
+<font face="方正黑体_GBK" size="21"><b>一切都是一场战斗
+</b></font><font face="方正综艺_GBK" size="14"><b>Everything was a battle.</b></font>
+
+372
+00:51:54,740 --> 00:51:57,180
+<font face="方正黑体_GBK" size="21"><b>有时我很想知道
+</b></font><font face="方正综艺_GBK" size="14"><b>I wonder sometimes.</b></font>
+
+373
+00:51:59,880 --> 00:52:03,220
+<font face="方正黑体_GBK" size="21"><b>你为什么选择成为现在的自己
+</b></font><font face="方正综艺_GBK" size="14"><b>Why do you choose to be the person you are?</b></font>
+
+374
+00:52:07,290 --> 00:52:12,460
+<font face="方正黑体_GBK" size="21"><b>就像 你只是不管在你之前发生过什么
+</b></font><font face="方正综艺_GBK" size="14"><b>Like, you're just Whatever happened before you.</b></font>
+
+375
+00:52:15,900 --> 00:52:20,470
+<font face="方正黑体_GBK" size="21"><b>也许打破这种循环需要某种牺牲
+</b></font><font face="方正综艺_GBK" size="14"><b>Maybe it takes some kind of sacrifice to break the cycle.</b></font>
+
+376
+00:52:23,440 --> 00:52:25,280
+<font face="方正黑体_GBK" size="21"><b>-阿门 -阿门
+</b></font><font face="方正综艺_GBK" size="14"><b>- Amen. - Amen.</b></font>
+
+377
+00:52:25,310 --> 00:52:27,810
+<font face="方正黑体_GBK" size="21"><b>让我们站起来...
+</b></font><font face="方正综艺_GBK" size="14"><b>Let us rise and--</b></font>
+
+378
+00:52:27,840 --> 00:52:30,380
+<font face="方正黑体_GBK" size="21"><b>我不知道你为什么来这里 但你现在得离开
+</b></font><font face="方正综艺_GBK" size="14"><b>I don't know why you came here but you need to leave now.</b></font>
+
+379
+00:54:17,950 --> 00:54:20,020
+<font face="方正黑体_GBK" size="21"><b>你为什么要这么做
+</b></font><font face="方正综艺_GBK" size="14"><b>Why are you doing this?</b></font>
+
+380
+00:54:23,730 --> 00:54:27,890
+<font face="方正黑体_GBK" size="21"><b>这对你没有帮助 并不能让你得到什么
+</b></font><font face="方正综艺_GBK" size="14"><b>This doesn't help you. Doesn't get you anything.</b></font>
+
+381
+00:54:32,470 --> 00:54:33,830
+<font face="方正黑体_GBK" size="21"><b>你到底想要什么
+</b></font><font face="方正综艺_GBK" size="14"><b>What do you want?</b></font>
+
+382
+00:54:37,540 --> 00:54:39,480
+<font face="方正黑体_GBK" size="21"><b>你听到我说的了吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Are you hearing me?</b></font>
+
+383
+00:54:43,710 --> 00:54:45,780
+<font face="方正黑体_GBK" size="21"><b>你为什么不进来
+</b></font><font face="方正综艺_GBK" size="14"><b>Why don't you come inside?</b></font>
+
+384
+00:54:50,150 --> 00:54:52,720
+<font face="方正黑体_GBK" size="21"><b>什么
+</b></font><font face="方正综艺_GBK" size="14"><b>What?</b></font>
+
+385
+00:54:52,760 --> 00:54:54,050
+<font face="方正黑体_GBK" size="21"><b>进来吧
+</b></font><font face="方正综艺_GBK" size="14"><b>Just come inside.</b></font>
+
+386
+00:54:56,430 --> 00:54:59,600
+<font face="方正黑体_GBK" size="21"><b>我们可以解决的
+</b></font><font face="方正综艺_GBK" size="14"><b>We can work it out.</b></font>
+
+387
+00:54:59,630 --> 00:55:01,470
+<font face="方正黑体_GBK" size="21"><b>我知道你想要什么
+</b></font><font face="方正综艺_GBK" size="14"><b>I know what you want.</b></font>
+
+388
+00:55:01,500 --> 00:55:03,400
+<font face="方正黑体_GBK" size="21"><b>来吧
+</b></font><font face="方正综艺_GBK" size="14"><b>Come on.</b></font>
+
+389
+00:55:07,440 --> 00:55:09,940
+<font face="方正黑体_GBK" size="21"><b>怎么了 来吧
+</b></font><font face="方正综艺_GBK" size="14"><b>What's the matter? Come on.</b></font>
+
+390
+00:55:11,970 --> 00:55:13,640
+<font face="方正黑体_GBK" size="21"><b>嗯 怎么了
+</b></font><font face="方正综艺_GBK" size="14"><b>Huh? What's the matter?</b></font>
+
+391
+00:55:13,680 --> 00:55:17,780
+<font face="方正黑体_GBK" size="21"><b>来吧 你要去哪里
+</b></font><font face="方正综艺_GBK" size="14"><b>Come on. Eh, where ya going!</b></font>
+
+392
+00:56:44,770 --> 00:56:46,230
+<font face="方正黑体_GBK" size="21"><b>惊喜
+</b></font><font face="方正综艺_GBK" size="14"><b>Surprise.</b></font>
+
+393
+00:56:47,640 --> 00:56:49,810
+<font face="方正黑体_GBK" size="21"><b>我很抱歉 我很抱歉
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm sorry. I'm sorry.</b></font>
+
+394
+00:57:38,990 --> 00:57:40,790
+<font face="方正黑体_GBK" size="21"><b>你看起来想来点这个
+</b></font><font face="方正综艺_GBK" size="14"><b>You look like you could use one of these.</b></font>
+
+395
+00:57:40,830 --> 00:57:43,020
+<font face="方正黑体_GBK" size="21"><b>-很高兴见到你 -我喜欢你的裙子
+</b></font><font face="方正综艺_GBK" size="14"><b>- Good to see you. - I love your dress.</b></font>
+
+396
+00:57:43,060 --> 00:57:46,130
+<font face="方正黑体_GBK" size="21"><b>桑德拉 说实话 是不是穿得有点过了
+</b></font><font face="方正综艺_GBK" size="14"><b>Sandra, tell me, honestly, is it-- is it too much?</b></font>
+
+397
+00:57:46,160 --> 00:57:49,630
+<font face="方正黑体_GBK" size="21"><b>不 该死 你看起来很棒
+</b></font><font face="方正综艺_GBK" size="14"><b>No. Hell no. You look amazing.</b></font>
+
+398
+00:57:50,160 --> 00:57:51,930
+<font face="方正黑体_GBK" size="21"><b>干杯
+</b></font><font face="方正综艺_GBK" size="14"><b>Cheers.</b></font>
+
+399
+00:57:55,870 --> 00:57:58,070
+<font face="方正黑体_GBK" size="21"><b>你喜欢这个聚会吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Are you enjoying the party?</b></font>
+
+400
+00:57:58,110 --> 00:58:01,070
+<font face="方正黑体_GBK" size="21"><b>说实话 他能让我加入真是太好了
+</b></font><font face="方正综艺_GBK" size="14"><b>Honestly, it's so nice of him to let me join for a bit.</b></font>
+
+401
+00:58:01,110 --> 00:58:02,940
+<font face="方正黑体_GBK" size="21"><b>他的房子很漂亮 对吧
+</b></font><font face="方正综艺_GBK" size="14"><b>His house is so nice, right?</b></font>
+
+402
+00:58:02,980 --> 00:58:05,720
+<font face="方正黑体_GBK" size="21"><b>他告诉我是他自己设计的
+</b></font><font face="方正综艺_GBK" size="14"><b>He told me he designed it himself.</b></font>
+
+403
+00:58:05,750 --> 00:58:08,690
+<font face="方正黑体_GBK" size="21"><b>是的 我敢打赌是他自己设计的
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah, I'll bet he did.</b></font>
+
+404
+00:58:08,720 --> 00:58:10,560
+<font face="方正黑体_GBK" size="21"><b>噢...
+</b></font><font face="方正综艺_GBK" size="14"><b>Oh...</b></font>
+
+405
+00:58:10,590 --> 00:58:14,050
+<font face="方正黑体_GBK" size="21"><b>什么 什么 什么
+</b></font><font face="方正综艺_GBK" size="14"><b>What? What? What?</b></font>
+
+406
+00:58:14,090 --> 00:58:16,930
+<font face="方正黑体_GBK" size="21"><b>那边儿那个人正在认真打量你呢
+</b></font><font face="方正综艺_GBK" size="14"><b>That guy over there was checking you out pretty hard.</b></font>
+
+407
+00:58:27,270 --> 00:58:30,100
+<font face="方正黑体_GBK" size="21"><b>噢 天哪 不
+</b></font><font face="方正综艺_GBK" size="14"><b>Oh, my God. No.</b></font>
+
+408
+00:58:30,140 --> 00:58:32,610
+<font face="方正黑体_GBK" size="21"><b>我认识他
+</b></font><font face="方正综艺_GBK" size="14"><b>It-- I know him.</b></font>
+
+409
+00:58:32,650 --> 00:58:35,710
+<font face="方正黑体_GBK" size="21"><b>这没关系 没什么
+</b></font><font face="方正综艺_GBK" size="14"><b>It doesn't matter. It's nothing.</b></font>
+
+410
+00:58:35,750 --> 00:58:37,340
+<font face="方正黑体_GBK" size="21"><b>噢 好吧
+</b></font><font face="方正综艺_GBK" size="14"><b>Oh, okay.</b></font>
+
+411
+00:58:37,380 --> 00:58:40,180
+<font face="方正黑体_GBK" size="21"><b>我有堆积如山的试卷要批改
+</b></font><font face="方正综艺_GBK" size="14"><b>Well, I have a mountain of exam papers to grade</b></font>
+
+412
+00:58:40,210 --> 00:58:43,590
+<font face="方正黑体_GBK" size="21"><b>-所以祝你有一个美好的夜晚 -不 不是这样的
+</b></font><font face="方正综艺_GBK" size="14"><b>- so you have a good night. - No, it's not like that.</b></font>
+
+413
+00:58:46,690 --> 00:58:48,060
+<font face="方正黑体_GBK" size="21"><b>圣诞快乐
+</b></font><font face="方正综艺_GBK" size="14"><b>Merry Christmas.</b></font>
+
+414
+00:58:52,190 --> 00:58:53,600
+<font face="方正黑体_GBK" size="21"><b>穿着打扮相当得体
+</b></font><font face="方正综艺_GBK" size="14"><b>Clean up nice.</b></font>
+
+415
+00:58:57,030 --> 00:59:00,000
+<font face="方正黑体_GBK" size="21"><b>所以 你... 你在这里做什么
+</b></font><font face="方正综艺_GBK" size="14"><b>So, what are you-- What are you doing here?</b></font>
+
+416
+00:59:00,040 --> 00:59:04,070
+<font face="方正黑体_GBK" size="21"><b>噢 我和苏珊是老交情了
+</b></font><font face="方正综艺_GBK" size="14"><b>Oh. Me and Susan go back a ways.</b></font>
+
+417
+00:59:04,110 --> 00:59:05,780
+<font face="方正黑体_GBK" size="21"><b>上高中的时候
+</b></font><font face="方正综艺_GBK" size="14"><b>High school.</b></font>
+
+418
+00:59:05,810 --> 00:59:07,750
+<font face="方正黑体_GBK" size="21"><b>你可以想象一下
+</b></font><font face="方正综艺_GBK" size="14"><b>You can imagine.</b></font>
+
+419
+00:59:13,920 --> 00:59:16,790
+<font face="方正黑体_GBK" size="21"><b>听着 我很高兴能遇到你
+</b></font><font face="方正综艺_GBK" size="14"><b>Look, I'm glad I ran into you.</b></font>
+
+420
+00:59:16,820 --> 00:59:21,960
+<font face="方正黑体_GBK" size="21"><b>嗯 前几天我气炸了
+</b></font><font face="方正综艺_GBK" size="14"><b>Um, I blew my top the other day.</b></font>
+
+421
+00:59:23,930 --> 00:59:25,860
+<font face="方正黑体_GBK" size="21"><b>我该向你道歉
+</b></font><font face="方正综艺_GBK" size="14"><b>I owe you an apology.</b></font>
+
+422
+00:59:25,900 --> 00:59:28,290
+<font face="方正黑体_GBK" size="21"><b>我不应该那样对你说话
+</b></font><font face="方正综艺_GBK" size="14"><b>I shouldn't talk to you like that.</b></font>
+
+423
+00:59:31,030 --> 00:59:34,040
+<font face="方正黑体_GBK" size="21"><b>好吧 我们没有被电锯锯死
+</b></font><font face="方正综艺_GBK" size="14"><b>Well, we didn't get chainsaw-ed.</b></font>
+
+424
+00:59:34,070 --> 00:59:36,240
+<font face="方正黑体_GBK" size="21"><b>这是个好日子
+</b></font><font face="方正综艺_GBK" size="14"><b>That's a good day.</b></font>
+
+425
+00:59:37,780 --> 00:59:39,370
+<font face="方正黑体_GBK" size="21"><b>是的
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah.</b></font>
+
+426
+00:59:39,410 --> 00:59:42,850
+<font face="方正黑体_GBK" size="21"><b>你在新奥尔良时做过什么工作
+</b></font><font face="方正综艺_GBK" size="14"><b>What kind of work did you do back in New Orleans?</b></font>
+
+427
+00:59:42,880 --> 00:59:45,680
+<font face="方正黑体_GBK" size="21"><b>你有留意过我
+</b></font><font face="方正综艺_GBK" size="14"><b>You looked me up.</b></font>
+
+428
+00:59:45,720 --> 00:59:48,720
+<font face="方正黑体_GBK" size="21"><b>嗯 好吧 我有一种预感
+</b></font><font face="方正综艺_GBK" size="14"><b>Huh. Well, I had a hunch.</b></font>
+
+429
+00:59:50,920 --> 00:59:53,960
+<font face="方正黑体_GBK" size="21"><b>你在农场的表现
+</b></font><font face="方正综艺_GBK" size="14"><b>The way you handled yourself back at that farm,</b></font>
+
+430
+00:59:56,160 --> 00:59:58,700
+<font face="方正黑体_GBK" size="21"><b>还有烟头和密封袋
+</b></font><font face="方正综艺_GBK" size="14"><b>and cigarette butts and Ziploc.</b></font>
+
+431
+01:00:00,000 --> 01:00:01,770
+<font face="方正黑体_GBK" size="21"><b>干得漂亮 侦探
+</b></font><font face="方正综艺_GBK" size="14"><b>Excellent work, detective.</b></font>
+
+432
+01:00:01,800 --> 01:00:03,200
+<font face="方正黑体_GBK" size="21"><b>噢 不
+</b></font><font face="方正综艺_GBK" size="14"><b>Oh, no.</b></font>
+
+433
+01:00:03,230 --> 01:00:04,930
+<font face="方正黑体_GBK" size="21"><b>我只是个出身低微的副警长
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm just a humble sheriff's deputy.</b></font>
+
+434
+01:00:07,300 --> 01:00:10,010
+<font face="方正黑体_GBK" size="21"><b>当一个大城市的警察是什么感觉
+</b></font><font face="方正综艺_GBK" size="14"><b>What was it like being a big city cop?</b></font>
+
+435
+01:00:12,240 --> 01:00:14,270
+<font face="方正黑体_GBK" size="21"><b>和在这里当警察一样
+</b></font><font face="方正综艺_GBK" size="14"><b>Same as being a cop here,</b></font>
+
+436
+01:00:14,310 --> 01:00:16,850
+<font face="方正黑体_GBK" size="21"><b>除了备份和基础技术
+</b></font><font face="方正综艺_GBK" size="14"><b>except with backup and basic technology.</b></font>
+
+437
+01:00:18,150 --> 01:00:19,340
+<font face="方正黑体_GBK" size="21"><b>很有趣
+</b></font><font face="方正综艺_GBK" size="14"><b>Very funny.</b></font>
+
+438
+01:00:20,050 --> 01:00:22,990
+<font face="方正黑体_GBK" size="21"><b>不 就是你想的那样
+</b></font><font face="方正综艺_GBK" size="14"><b>No, it is what you think it is.</b></font>
+
+439
+01:00:23,990 --> 01:00:26,820
+<font face="方正黑体_GBK" size="21"><b>大城市有大城市的问题
+</b></font><font face="方正综艺_GBK" size="14"><b>Big cities have big city problems.</b></font>
+
+440
+01:00:29,490 --> 01:00:31,090
+<font face="方正黑体_GBK" size="21"><b>我做不到
+</b></font><font face="方正综艺_GBK" size="14"><b>I couldn't do it.</b></font>
+
+441
+01:00:32,870 --> 01:00:36,160
+<font face="方正黑体_GBK" size="21"><b>在这里也不是走马观花
+</b></font><font face="方正综艺_GBK" size="14"><b>It's not a walk in the park here, either</b></font>
+
+442
+01:00:36,200 --> 01:00:40,460
+<font face="方正黑体_GBK" size="21"><b>但至少你能知道羊和狼的区别
+</b></font><font face="方正综艺_GBK" size="14"><b>but at least you know the sheep from the wolves.</b></font>
+
+443
+01:00:42,810 --> 01:00:44,370
+<font face="方正黑体_GBK" size="21"><b>这就是你成为警察的原因
+</b></font><font face="方正综艺_GBK" size="14"><b>Is that why you became a cop?</b></font>
+
+444
+01:00:47,510 --> 01:00:49,440
+<font face="方正黑体_GBK" size="21"><b>这个嘛...
+</b></font><font face="方正综艺_GBK" size="14"><b>Well...</b></font>
+
+445
+01:00:51,790 --> 01:00:55,990
+<font face="方正黑体_GBK" size="21"><b>我猜是我高中时的橄榄球教练对我的影响
+</b></font><font face="方正综艺_GBK" size="14"><b>I guess it was my high school football coach, actually.</b></font>
+
+446
+01:00:56,020 --> 01:01:02,020
+<font face="方正黑体_GBK" size="21"><b>他当过警察
+</b></font><font face="方正综艺_GBK" size="14"><b>Uh, he'd been a cop</b></font>
+
+447
+01:01:02,060 --> 01:01:03,760
+<font face="方正黑体_GBK" size="21"><b>我对他很仰慕
+</b></font><font face="方正综艺_GBK" size="14"><b>and looked up to him.</b></font>
+
+448
+01:01:03,800 --> 01:01:09,970
+<font face="方正黑体_GBK" size="21"><b>所以我想我只是在做他做过的事情
+</b></font><font face="方正综艺_GBK" size="14"><b>So I guess I just figured I'd do what he did.</b></font>
+
+449
+01:01:10,000 --> 01:01:12,100
+<font face="方正黑体_GBK" size="21"><b>那么你呢
+</b></font><font face="方正综艺_GBK" size="14"><b>Well? What about you?</b></font>
+
+450
+01:01:13,270 --> 01:01:16,070
+<font face="方正黑体_GBK" size="21"><b>我想为我的社区服务
+</b></font><font face="方正综艺_GBK" size="14"><b>I wanted to serve my community.</b></font>
+
+451
+01:01:17,370 --> 01:01:18,880
+<font face="方正黑体_GBK" size="21"><b>噢
+</b></font><font face="方正综艺_GBK" size="14"><b>Oh.</b></font>
+
+452
+01:01:21,470 --> 01:01:23,950
+<font face="方正黑体_GBK" size="21"><b>很好的理由
+</b></font><font face="方正综艺_GBK" size="14"><b>Pretty good reason.</b></font>
+
+453
+01:01:29,450 --> 01:01:32,920
+<font face="方正黑体_GBK" size="21"><b>我还记得我们第一次来这里的时候
+</b></font><font face="方正综艺_GBK" size="14"><b>I remember when we first came here.</b></font>
+
+454
+01:01:32,960 --> 01:01:36,160
+<font face="方正黑体_GBK" size="21"><b>我觉得我们仿佛回到了过去
+</b></font><font face="方正综艺_GBK" size="14"><b>And I felt like we'd gone back in time.</b></font>
+
+455
+01:01:36,190 --> 01:01:40,360
+<font face="方正黑体_GBK" size="21"><b>你看看那些山
+</b></font><font face="方正综艺_GBK" size="14"><b>You look at those mountains</b></font>
+
+456
+01:01:40,390 --> 01:01:43,490
+<font face="方正黑体_GBK" size="21"><b>你可以看到所有的方式都回到起点
+</b></font><font face="方正综艺_GBK" size="14"><b>and you can see all the way back to the beginning,</b></font>
+
+457
+01:01:45,840 --> 01:01:49,370
+<font face="方正黑体_GBK" size="21"><b>在根本没有人的时候
+</b></font><font face="方正综艺_GBK" size="14"><b>before there were any people at all.</b></font>
+
+458
+01:01:49,400 --> 01:01:51,370
+<font face="方正黑体_GBK" size="21"><b>只不过是只熊
+</b></font><font face="方正综艺_GBK" size="14"><b>Just bears.</b></font>
+
+459
+01:01:55,480 --> 01:01:58,110
+<font face="方正黑体_GBK" size="21"><b>我记得我站在那片田野里
+</b></font><font face="方正综艺_GBK" size="14"><b>I remember standing in that field.</b></font>
+
+460
+01:01:58,150 --> 01:01:59,790
+<font face="方正黑体_GBK" size="21"><b>哭了
+</b></font><font face="方正综艺_GBK" size="14"><b>Crying.</b></font>
+
+461
+01:02:01,280 --> 01:02:06,420
+<font face="方正黑体_GBK" size="21"><b>因为它是如此... 未遭破坏
+</b></font><font face="方正综艺_GBK" size="14"><b>Because it was so... unspoiled.</b></font>
+
+462
+01:02:09,260 --> 01:02:12,090
+<font face="方正黑体_GBK" size="21"><b>我从未有过这种感觉
+</b></font><font face="方正综艺_GBK" size="14"><b>I'd never felt anything like that.</b></font>
+
+463
+01:02:12,130 --> 01:02:15,330
+<font face="方正黑体_GBK" size="21"><b>我知道当雪融化时
+</b></font><font face="方正综艺_GBK" size="14"><b>And I know when the snow melts,</b></font>
+
+464
+01:02:15,360 --> 01:02:17,330
+<font face="方正黑体_GBK" size="21"><b>我会再次有那种感觉
+</b></font><font face="方正综艺_GBK" size="14"><b>I'll get to feel that way again.</b></font>
+
+465
+01:02:27,850 --> 01:02:30,480
+<font face="方正黑体_GBK" size="21"><b>不 是的 是的
+</b></font><font face="方正综艺_GBK" size="14"><b>No, yeah, it's, uh,</b></font>
+
+466
+01:02:30,510 --> 01:02:32,540
+<font face="方正黑体_GBK" size="21"><b>它很雄伟
+</b></font><font face="方正综艺_GBK" size="14"><b>it's pretty majestic.</b></font>
+
+467
+01:02:40,090 --> 01:02:42,160
+<font face="方正黑体_GBK" size="21"><b>你很会说话
+</b></font><font face="方正综艺_GBK" size="14"><b>You got quite a way with words.</b></font>
+
+468
+01:02:44,100 --> 01:02:45,460
+<font face="方正黑体_GBK" size="21"><b>我教的是公开演讲
+</b></font><font face="方正综艺_GBK" size="14"><b>I teach public speaking.</b></font>
+
+469
+01:02:45,490 --> 01:02:46,930
+<font face="方正黑体_GBK" size="21"><b>啊
+</b></font><font face="方正综艺_GBK" size="14"><b>Ah.</b></font>
+
+470
+01:02:48,900 --> 01:02:51,360
+<font face="方正黑体_GBK" size="21"><b>那么 到底是什么让你来到这里
+</b></font><font face="方正综艺_GBK" size="14"><b>So what brought you up here anyway?</b></font>
+
+471
+01:02:55,170 --> 01:02:56,570
+<font face="方正黑体_GBK" size="21"><b>终身职位
+</b></font><font face="方正综艺_GBK" size="14"><b>Tenure track.</b></font>
+
+472
+01:02:57,940 --> 01:02:59,410
+<font face="方正黑体_GBK" size="21"><b>不 我是说
+</b></font><font face="方正综艺_GBK" size="14"><b>No, I mean.</b></font>
+
+473
+01:03:02,310 --> 01:03:06,380
+<font face="方正黑体_GBK" size="21"><b>我不知道有多少
+</b></font><font face="方正综艺_GBK" size="14"><b>I don't know a lot of beat cops</b></font>
+
+474
+01:03:06,410 --> 01:03:08,020
+<font face="方正黑体_GBK" size="21"><b>巡警在大学里上课
+</b></font><font face="方正综艺_GBK" size="14"><b>that teach college classes.</b></font>
+
+475
+01:03:13,120 --> 01:03:15,620
+<font face="方正黑体_GBK" size="21"><b>你是在问我为什么退出警队
+</b></font><font face="方正综艺_GBK" size="14"><b>You're asking why I quit the force?</b></font>
+
+476
+01:03:15,650 --> 01:03:17,390
+<font face="方正黑体_GBK" size="21"><b>我很好奇
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm curious.</b></font>
+
+477
+01:03:20,100 --> 01:03:23,630
+<font face="方正黑体_GBK" size="21"><b>问和想知道不是一回事儿
+</b></font><font face="方正综艺_GBK" size="14"><b>Well, asking and wanting to know are not the same thing.</b></font>
+
+478
+01:03:27,440 --> 01:03:29,600
+<font face="方正黑体_GBK" size="21"><b>给我讲讲
+</b></font><font face="方正综艺_GBK" size="14"><b>Try me.</b></font>
+
+479
+01:03:36,350 --> 01:03:40,050
+<font face="方正黑体_GBK" size="21"><b>我在新奥尔良出生长大
+</b></font><font face="方正综艺_GBK" size="14"><b>I was born and raised in New Orleans.</b></font>
+
+480
+01:03:40,090 --> 01:03:43,580
+<font face="方正黑体_GBK" size="21"><b>新奥尔良是我的家
+</b></font><font face="方正综艺_GBK" size="14"><b>New Orleans was my home.</b></font>
+
+481
+01:03:43,620 --> 01:03:45,390
+<font face="方正黑体_GBK" size="21"><b>现在我住在这里
+</b></font><font face="方正综艺_GBK" size="14"><b>Now I live out here.</b></font>
+
+482
+01:03:48,320 --> 01:03:50,390
+<font face="方正黑体_GBK" size="21"><b>我一生都想成为一名警察
+</b></font><font face="方正综艺_GBK" size="14"><b>All my life, I wanted to be a police officer.</b></font>
+
+483
+01:03:54,260 --> 01:03:56,560
+<font face="方正黑体_GBK" size="21"><b>而现在我再也不可能再戴上
+</b></font><font face="方正综艺_GBK" size="14"><b>And now there is no way I would ever</b></font>
+
+484
+01:03:56,600 --> 01:03:59,530
+<font face="方正黑体_GBK" size="21"><b>那个该死的警徽了
+</b></font><font face="方正综艺_GBK" size="14"><b>put on that motherfucking badge again.</b></font>
+
+485
+01:04:02,500 --> 01:04:04,110
+<font face="方正黑体_GBK" size="21"><b>你觉得原因是什么
+</b></font><font face="方正综艺_GBK" size="14"><b>Why do you think that is?</b></font>
+
+486
+01:04:13,680 --> 01:04:15,420
+<font face="方正黑体_GBK" size="21"><b>你必须拔出你的武器
+</b></font><font face="方正综艺_GBK" size="14"><b>You had to draw your weapon.</b></font>
+
+487
+01:04:17,250 --> 01:04:19,350
+<font face="方正黑体_GBK" size="21"><b>你必须向某人开枪
+</b></font><font face="方正综艺_GBK" size="14"><b>You had to shoot somebody.</b></font>
+
+488
+01:04:22,090 --> 01:04:24,260
+<font face="方正黑体_GBK" size="21"><b>这是你能想到的最糟糕的事情吗
+</b></font><font face="方正综艺_GBK" size="14"><b>That's the worst thing you can think of?</b></font>
+
+489
+01:04:28,730 --> 01:04:34,170
+<font face="方正黑体_GBK" size="21"><b>他们让我们被淹死 他们让我的人民被淹死
+</b></font><font face="方正综艺_GBK" size="14"><b>They let us drown. They let my people drown.</b></font>
+
+490
+01:04:34,210 --> 01:04:37,570
+<font face="方正黑体_GBK" size="21"><b>而他们却不屑一顾
+</b></font><font face="方正综艺_GBK" size="14"><b>And they didn't give a goddamn about it.</b></font>
+
+491
+01:04:37,600 --> 01:04:40,510
+<font face="方正黑体_GBK" size="21"><b>你知道吗
+</b></font><font face="方正综艺_GBK" size="14"><b>And you know what?</b></font>
+
+492
+01:04:40,540 --> 01:04:44,050
+<font face="方正黑体_GBK" size="21"><b>这本不值得惊讶
+</b></font><font face="方正综艺_GBK" size="14"><b>It should have been no surprise.</b></font>
+
+493
+01:04:44,080 --> 01:04:46,640
+<font face="方正黑体_GBK" size="21"><b>而这就是事情的真相
+</b></font><font face="方正综艺_GBK" size="14"><b>That's just the way it goes.</b></font>
+
+494
+01:04:48,480 --> 01:04:52,020
+<font face="方正黑体_GBK" size="21"><b>我母亲认为上帝会拯救我们
+</b></font><font face="方正综艺_GBK" size="14"><b>My mother thought God would save us.</b></font>
+
+495
+01:04:52,060 --> 01:04:55,650
+<font face="方正黑体_GBK" size="21"><b>以前曾想把她弄出来
+</b></font><font face="方正综艺_GBK" size="14"><b>Tried to get her out before.</b></font>
+
+496
+01:04:55,690 --> 01:04:58,030
+<font face="方正黑体_GBK" size="21"><b>但她听不进去
+</b></font><font face="方正综艺_GBK" size="14"><b>She wouldn't hear it.</b></font>
+
+497
+01:05:00,660 --> 01:05:03,630
+<font face="方正黑体_GBK" size="21"><b>她认为上帝会把我们从飓风中拯救出来
+</b></font><font face="方正综艺_GBK" size="14"><b>She thought that God would save us from the hurricane.</b></font>
+
+498
+01:05:05,600 --> 01:05:08,140
+<font face="方正黑体_GBK" size="21"><b>我无法改变她的想法
+</b></font><font face="方正综艺_GBK" size="14"><b>And I couldn't change her mind.</b></font>
+
+499
+01:05:09,110 --> 01:05:14,610
+<font face="方正黑体_GBK" size="21"><b>所以我离开了她 因为我还有工作要做
+</b></font><font face="方正综艺_GBK" size="14"><b>So I left her because I had a job to do.</b></font>
+
+500
+01:05:14,640 --> 01:05:19,550
+<font face="方正黑体_GBK" size="21"><b>然后我不得不去把她从那该死的超级穹顶里挖出来
+</b></font><font face="方正综艺_GBK" size="14"><b>And then I had to go dig her out of the fucking Superdome.</b></font>
+
+501
+01:05:22,680 --> 01:05:25,420
+<font face="方正黑体_GBK" size="21"><b>然而她再也没有回来
+</b></font><font face="方正综艺_GBK" size="14"><b>And she never came back from that.</b></font>
+
+502
+01:05:25,450 --> 01:05:27,690
+<font face="方正黑体_GBK" size="21"><b>这不是你回来的原因
+</b></font><font face="方正综艺_GBK" size="14"><b>That's not something you come back from.</b></font>
+
+503
+01:05:30,460 --> 01:05:32,390
+<font face="方正黑体_GBK" size="21"><b>我们失败了
+</b></font><font face="方正综艺_GBK" size="14"><b>We failed.</b></font>
+
+504
+01:05:36,530 --> 01:05:38,400
+<font face="方正黑体_GBK" size="21"><b>我保护不了她
+</b></font><font face="方正综艺_GBK" size="14"><b>I couldn't protect her.</b></font>
+
+505
+01:05:41,170 --> 01:05:43,400
+<font face="方正黑体_GBK" size="21"><b>这也就是我辞职的原因
+</b></font><font face="方正综艺_GBK" size="14"><b>That's why I quit.</b></font>
+
+506
+01:05:53,350 --> 01:05:56,020
+<font face="方正黑体_GBK" size="21"><b>很抱歉 我不知道这些
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm sorry, I didn't know.</b></font>
+
+507
+01:09:38,840 --> 01:09:43,970
+<font face="方正黑体_GBK" size="21"><b>噢 嘿 格雷琴 你还好吗 请进 请进
+</b></font><font face="方正综艺_GBK" size="14"><b>Oh hey, Gretchen. You okay? Come in, come in.</b></font>
+
+508
+01:09:51,980 --> 01:09:53,620
+<font face="方正黑体_GBK" size="21"><b>所以 呃...
+</b></font><font face="方正综艺_GBK" size="14"><b>So, um...</b></font>
+
+509
+01:09:58,790 --> 01:10:01,830
+<font face="方正黑体_GBK" size="21"><b>-我想问你一些事情 -没问题
+</b></font><font face="方正综艺_GBK" size="14"><b>- I wanted to ask you something. - Mm-hm.</b></font>
+
+510
+01:10:01,860 --> 01:10:05,500
+<font face="方正黑体_GBK" size="21"><b>还记得之前你提到过的助教的事情吗
+</b></font><font face="方正综艺_GBK" size="14"><b>You know how you mentioned the T.A. thing?</b></font>
+
+511
+01:10:05,540 --> 01:10:10,540
+<font face="方正黑体_GBK" size="21"><b>好吧 嗯... 我想和你谈谈这件事情
+</b></font><font face="方正综艺_GBK" size="14"><b>Well, um... I'd like to take you up on that.</b></font>
+
+512
+01:10:12,410 --> 01:10:14,580
+<font face="方正黑体_GBK" size="21"><b>我是说 如果还可以的话
+</b></font><font face="方正综艺_GBK" size="14"><b>I mean, if it's still available.</b></font>
+
+513
+01:10:14,610 --> 01:10:16,480
+<font face="方正黑体_GBK" size="21"><b>是的 当然了
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah, of course.</b></font>
+
+514
+01:10:16,510 --> 01:10:17,840
+<font face="方正黑体_GBK" size="21"><b>只要亚瑟不介意就行
+</b></font><font face="方正综艺_GBK" size="14"><b>As long as it's alright with Arthur.</b></font>
+
+515
+01:10:19,810 --> 01:10:22,490
+<font face="方正黑体_GBK" size="21"><b>噢 我相信他还有很多人
+</b></font><font face="方正综艺_GBK" size="14"><b>Oh, I'm sure he has plenty of other people.</b></font>
+
+516
+01:10:26,560 --> 01:10:28,260
+<font face="方正黑体_GBK" size="21"><b>有什么不一样吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Did something change?</b></font>
+
+517
+01:10:40,870 --> 01:10:43,410
+<font face="方正黑体_GBK" size="21"><b>如果我告诉你 你要保证不说出去
+</b></font><font face="方正综艺_GBK" size="14"><b>If I tell you, you have to promise you won't say anything.</b></font>
+
+518
+01:10:46,870 --> 01:10:47,940
+<font face="方正黑体_GBK" size="21"><b>告诉我什么
+</b></font><font face="方正综艺_GBK" size="14"><b>Tell me what?</b></font>
+
+519
+01:11:01,490 --> 01:11:04,820
+<font face="方正黑体_GBK" size="21"><b>昨晚派对结束后 他...
+</b></font><font face="方正综艺_GBK" size="14"><b>Last night after the party, he--</b></font>
+
+520
+01:11:06,030 --> 01:11:07,430
+<font face="方正黑体_GBK" size="21"><b>...呃...
+</b></font><font face="方正综艺_GBK" size="14"><b>...uh...</b></font>
+
+521
+01:11:10,670 --> 01:11:12,800
+<font face="方正黑体_GBK" size="21"><b>他走进书房
+</b></font><font face="方正综艺_GBK" size="14"><b>He came into the study.</b></font>
+
+522
+01:11:13,510 --> 01:11:15,370
+<font face="方正黑体_GBK" size="21"><b>我当时正在批改试卷
+</b></font><font face="方正综艺_GBK" size="14"><b>I was grading papers.</b></font>
+
+523
+01:11:17,670 --> 01:11:20,510
+<font face="方正黑体_GBK" size="21"><b>他说他在搬运木柴时拉伤了肌肉
+</b></font><font face="方正综艺_GBK" size="14"><b>He said he'd pulled a muscle carrying firewood.</b></font>
+
+524
+01:11:20,550 --> 01:11:23,070
+<font face="方正黑体_GBK" size="21"><b>他浑身酸痛 睡不着觉
+</b></font><font face="方正综艺_GBK" size="14"><b>He was sore and he couldn't sleep.</b></font>
+
+525
+01:11:25,040 --> 01:11:30,010
+<font face="方正黑体_GBK" size="21"><b>他有一些乳液 他想让我帮他涂上
+</b></font><font face="方正综艺_GBK" size="14"><b>He had some lotion and he wanted me to put it on for him,</b></font>
+
+526
+01:11:30,050 --> 01:11:34,950
+<font face="方正黑体_GBK" size="21"><b>所以... 所以我就照做了
+</b></font><font face="方正综艺_GBK" size="14"><b>so-- so I did.</b></font>
+
+527
+01:11:41,630 --> 01:11:42,760
+<font face="方正黑体_GBK" size="21"><b>他碰你了吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Did he touch you?</b></font>
+
+528
+01:11:46,840 --> 01:11:48,700
+<font face="方正黑体_GBK" size="21"><b>我帮他在肩膀上涂抹了乳液
+</b></font><font face="方正综艺_GBK" size="14"><b>I put the lotion on the shoulders for him</b></font>
+
+529
+01:11:48,740 --> 01:11:49,770
+<font face="方正黑体_GBK" size="21"><b>就是这样
+</b></font><font face="方正综艺_GBK" size="14"><b>and that was it.</b></font>
+
+530
+01:11:59,880 --> 01:12:02,520
+<font face="方正黑体_GBK" size="21"><b>格雷琴 你大可不必这么做
+</b></font><font face="方正综艺_GBK" size="14"><b>Gretchen, you do not have to accept this.</b></font>
+
+531
+01:12:07,430 --> 01:12:08,920
+<font face="方正黑体_GBK" size="21"><b>我是说 我已经答应了
+</b></font><font face="方正综艺_GBK" size="14"><b>I mean, I agreed to do it.</b></font>
+
+532
+01:12:12,830 --> 01:12:14,470
+<font face="方正黑体_GBK" size="21"><b>这没什么大不了的
+</b></font><font face="方正综艺_GBK" size="14"><b>It wasn't a big deal.</b></font>
+
+533
+01:12:18,870 --> 01:12:22,440
+<font face="方正黑体_GBK" size="21"><b>我们不必再谈论这个问题了 我只是 呃...
+</b></font><font face="方正综艺_GBK" size="14"><b>We don't have to talk about this anymore, I just, uh...</b></font>
+
+534
+01:12:24,040 --> 01:12:26,610
+<font face="方正黑体_GBK" size="21"><b>我现在只想帮你做助教
+</b></font><font face="方正综艺_GBK" size="14"><b>I'd just rather T.A. for you now.</b></font>
+
+535
+01:12:36,920 --> 01:12:38,290
+<font face="方正黑体_GBK" size="21"><b>好吧
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah.</b></font>
+
+536
+01:12:42,150 --> 01:12:43,790
+<font face="方正黑体_GBK" size="21"><b>呃 赞成的请举手
+</b></font><font face="方正综艺_GBK" size="14"><b>Uh, all those in favor?</b></font>
+
+537
+01:12:51,000 --> 01:12:52,640
+<font face="方正黑体_GBK" size="21"><b>好的 有反对的吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Okay. Opposed?</b></font>
+
+538
+01:12:53,900 --> 01:12:55,740
+<font face="方正黑体_GBK" size="21"><b>吉德里教授 再一次
+</b></font><font face="方正综艺_GBK" size="14"><b>Professor Guidry, again.</b></font>
+
+539
+01:12:59,680 --> 01:13:01,640
+<font face="方正黑体_GBK" size="21"><b>好了 各位
+</b></font><font face="方正综艺_GBK" size="14"><b>Well, folks.</b></font>
+
+540
+01:13:01,680 --> 01:13:03,040
+<font face="方正黑体_GBK" size="21"><b>看起来我们已经有了前三名
+</b></font><font face="方正综艺_GBK" size="14"><b>Looks like we have our top three.</b></font>
+
+541
+01:13:03,080 --> 01:13:05,620
+<font face="方正黑体_GBK" size="21"><b>祝贺大家 做得很好
+</b></font><font face="方正综艺_GBK" size="14"><b>Congratulations. Well done.</b></font>
+
+542
+01:13:08,490 --> 01:13:11,720
+<font face="方正黑体_GBK" size="21"><b>我并不是有意要刁难你
+</b></font><font face="方正综艺_GBK" size="14"><b>I don't mean to be difficult</b></font>
+
+543
+01:13:11,760 --> 01:13:15,020
+<font face="方正黑体_GBK" size="21"><b>但我们都同意 为了我们部门的未来
+</b></font><font face="方正综艺_GBK" size="14"><b>but we all agreed it was important for the future</b></font>
+
+544
+01:13:15,060 --> 01:13:19,190
+<font face="方正黑体_GBK" size="21"><b>努力提高包容性是很重要的
+</b></font><font face="方正综艺_GBK" size="14"><b>of our department to try to be more inclusive.</b></font>
+
+545
+01:13:22,600 --> 01:13:25,130
+<font face="方正黑体_GBK" size="21"><b>呃 我想我们确实已经尽力了
+</b></font><font face="方正综艺_GBK" size="14"><b>Uh, I think we did try.</b></font>
+
+546
+01:13:28,040 --> 01:13:30,670
+<font face="方正黑体_GBK" size="21"><b>现在我们有了名单
+</b></font><font face="方正综艺_GBK" size="14"><b>And now that we have our list,</b></font>
+
+547
+01:13:30,710 --> 01:13:33,480
+<font face="方正黑体_GBK" size="21"><b>重要的是我们都要团结起来支持这一方案
+</b></font><font face="方正综艺_GBK" size="14"><b>it's important that we all rally behind it.</b></font>
+
+548
+01:13:33,510 --> 01:13:35,940
+<font face="方正黑体_GBK" size="21"><b>我见过院长在感觉到不和谐的情况下
+</b></font><font face="方正综艺_GBK" size="14"><b>I've seen the Dean use the budget to stall appointments</b></font>
+
+549
+01:13:35,980 --> 01:13:37,750
+<font face="方正黑体_GBK" size="21"><b>利用预算来拖延任命
+</b></font><font face="方正综艺_GBK" size="14"><b>if he senses discord.</b></font>
+
+550
+01:13:37,780 --> 01:13:40,240
+<font face="方正黑体_GBK" size="21"><b>而我们这里有三位优秀的候选人
+</b></font><font face="方正综艺_GBK" size="14"><b>And we have three fine candidates here</b></font>
+
+551
+01:13:40,280 --> 01:13:42,720
+<font face="方正黑体_GBK" size="21"><b>他们可以真正地与我们的部门一起成长
+</b></font><font face="方正综艺_GBK" size="14"><b>who could really grow with our department.</b></font>
+
+552
+01:13:42,750 --> 01:13:44,690
+<font face="方正黑体_GBK" size="21"><b>所以 让我们...
+</b></font><font face="方正综艺_GBK" size="14"><b>So, let's...</b></font>
+
+553
+01:13:44,720 --> 01:13:46,180
+<font face="方正黑体_GBK" size="21"><b>我们不要错过这个机会
+</b></font><font face="方正综艺_GBK" size="14"><b>let's not blow this opportunity.</b></font>
+
+554
+01:13:47,090 --> 01:13:50,150
+<font face="方正黑体_GBK" size="21"><b>基于以上 祝各位圣诞快乐
+</b></font><font face="方正综艺_GBK" size="14"><b>And on that note, Merry Christmas, everyone.</b></font>
+
+555
+01:13:50,190 --> 01:13:51,890
+<font face="方正黑体_GBK" size="21"><b>上帝保佑
+</b></font><font face="方正综艺_GBK" size="14"><b>God bless.</b></font>
+
+556
+01:13:51,930 --> 01:13:54,860
+<font face="方正黑体_GBK" size="21"><b>还有 呃 嘿 明年见
+</b></font><font face="方正综艺_GBK" size="14"><b>And, um, hey, see you all next year.</b></font>
+
+557
+01:13:57,900 --> 01:13:59,930
+<font face="方正黑体_GBK" size="21"><b>是的 好吧 一旦我们...
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah. Well, once we--</b></font>
+
+558
+01:13:59,970 --> 01:14:01,840
+<font face="方正黑体_GBK" size="21"><b>一旦... 我想这取决于...
+</b></font><font face="方正综艺_GBK" size="14"><b>Once-- I think it's up to the...</b></font>
+
+559
+01:14:03,770 --> 01:14:05,740
+<font face="方正黑体_GBK" size="21"><b>失陪一下
+</b></font><font face="方正综艺_GBK" size="14"><b>Excuse me for one second.</b></font>
+
+560
+01:14:05,780 --> 01:14:08,780
+<font face="方正黑体_GBK" size="21"><b>我记得我们说过 我们会尽力向院长
+</b></font><font face="方正综艺_GBK" size="14"><b>I thought we said that we would try to recommend</b></font>
+
+561
+01:14:08,810 --> 01:14:11,620
+<font face="方正黑体_GBK" size="21"><b>推荐至少一位有色人种
+</b></font><font face="方正综艺_GBK" size="14"><b>at least one person of color to the dean.</b></font>
+
+562
+01:14:11,650 --> 01:14:14,750
+<font face="方正黑体_GBK" size="21"><b>恰恰相反 我们明确表示
+</b></font><font face="方正综艺_GBK" size="14"><b>On the contrary, we explicitly said</b></font>
+
+563
+01:14:14,790 --> 01:14:16,250
+<font face="方正黑体_GBK" size="21"><b>这不是为了填补配额
+</b></font><font face="方正综艺_GBK" size="14"><b>that this was not about filling a quota.</b></font>
+
+564
+01:14:16,280 --> 01:14:17,690
+<font face="方正黑体_GBK" size="21"><b>我不是这个意思
+</b></font><font face="方正综艺_GBK" size="14"><b>That's not what I'm saying.</b></font>
+
+565
+01:14:17,720 --> 01:14:19,050
+<font face="方正黑体_GBK" size="21"><b>你刚才真的这么说了...
+</b></font><font face="方正综艺_GBK" size="14"><b>You literally just said that--</b></font>
+
+566
+01:14:19,090 --> 01:14:20,950
+<font face="方正黑体_GBK" size="21"><b>不 不 你没听懂我的意思
+</b></font><font face="方正综艺_GBK" size="14"><b>No, no, you're not listening to me.</b></font>
+
+567
+01:14:20,990 --> 01:14:22,690
+<font face="方正黑体_GBK" size="21"><b>不 我很确定你明白这个概念...
+</b></font><font face="方正综艺_GBK" size="14"><b>No, I'm pretty sure you understand the concept of--</b></font>
+
+568
+01:14:22,730 --> 01:14:24,560
+<font face="方正黑体_GBK" size="21"><b>我是说 我们应该试着推荐
+</b></font><font face="方正综艺_GBK" size="14"><b>I said that we should try to recommend.</b></font>
+
+569
+01:14:24,600 --> 01:14:26,800
+<font face="方正黑体_GBK" size="21"><b>不是雇佣 是推荐
+</b></font><font face="方正综艺_GBK" size="14"><b>Not hire, recommend.</b></font>
+
+570
+01:14:26,830 --> 01:14:28,630
+<font face="方正黑体_GBK" size="21"><b>就是这样
+</b></font><font face="方正综艺_GBK" size="14"><b>That's all.</b></font>
+
+571
+01:14:28,670 --> 01:14:31,200
+<font face="方正黑体_GBK" size="21"><b>三个人的名单上只有一个人的名字 我们就不能这样做吗
+</b></font><font face="方正综艺_GBK" size="14"><b>One name on a list of three, and we can't do that?</b></font>
+
+572
+01:14:31,230 --> 01:14:33,570
+<font face="方正黑体_GBK" size="21"><b>所以 一个配额
+</b></font><font face="方正综艺_GBK" size="14"><b>So, a quota.</b></font>
+
+573
+01:14:33,610 --> 01:14:36,040
+<font face="方正黑体_GBK" size="21"><b>我们是有选择的 亚瑟
+</b></font><font face="方正综艺_GBK" size="14"><b>We had options, Arthur.</b></font>
+
+574
+01:14:36,070 --> 01:14:37,300
+<font face="方正黑体_GBK" size="21"><b>我们都认为这很重要
+</b></font><font face="方正综艺_GBK" size="14"><b>And we agreed it was important.</b></font>
+
+575
+01:14:37,340 --> 01:14:41,140
+<font face="方正黑体_GBK" size="21"><b>-你是这么说的 对吧 -对
+</b></font><font face="方正综艺_GBK" size="14"><b>- You said that. Right? - Yes.</b></font>
+
+576
+01:14:41,170 --> 01:14:43,240
+<font face="方正黑体_GBK" size="21"><b>我不知道你在说什么 桑德拉
+</b></font><font face="方正综艺_GBK" size="14"><b>I don't know where you're going with this, Sandra.</b></font>
+
+577
+01:14:43,280 --> 01:14:46,550
+<font face="方正黑体_GBK" size="21"><b>我是想提醒你...
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm trying to remind you--</b></font>
+
+578
+01:14:46,590 --> 01:14:48,210
+<font face="方正黑体_GBK" size="21"><b>我百分百地相信我们考虑到了每一个人
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm 100% confident that we considered everyone--</b></font>
+
+579
+01:14:48,250 --> 01:14:50,150
+<font face="方正黑体_GBK" size="21"><b>我只是想表达我们之间所达成的共识...
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm trying to express what we agreed--</b></font>
+
+580
+01:14:50,180 --> 01:14:51,750
+<font face="方正黑体_GBK" size="21"><b>桑德拉 这与你无关
+</b></font><font face="方正综艺_GBK" size="14"><b>Sandra, this is not about you.</b></font>
+
+581
+01:14:51,790 --> 01:14:53,720
+<font face="方正黑体_GBK" size="21"><b>我知道这与我无关
+</b></font><font face="方正综艺_GBK" size="14"><b>Oh, I know this is not about me.</b></font>
+
+582
+01:14:53,760 --> 01:14:57,020
+<font face="方正黑体_GBK" size="21"><b>这是关于雇佣最适合这份工作的人 任期
+</b></font><font face="方正综艺_GBK" size="14"><b>This is about hiring the best person for the job. Period.</b></font>
+
+583
+01:14:57,060 --> 01:14:59,760
+<font face="方正黑体_GBK" size="21"><b>但如果名单上的人都是白人
+</b></font><font face="方正综艺_GBK" size="14"><b>But if everyone on the list is white,</b></font>
+
+584
+01:14:59,800 --> 01:15:02,700
+<font face="方正黑体_GBK" size="21"><b>-那我们该怎么... -桑德拉 已经结束了
+</b></font><font face="方正综艺_GBK" size="14"><b>- then how are we supposed to-- - Sandra. It's over.</b></font>
+
+585
+01:15:03,900 --> 01:15:05,260
+<font face="方正黑体_GBK" size="21"><b>这个过程是公平的
+</b></font><font face="方正综艺_GBK" size="14"><b>The process was fair!</b></font>
+
+586
+01:15:05,300 --> 01:15:07,940
+<font face="方正黑体_GBK" size="21"><b>现在已经结束了 而我们正在向前迈进
+</b></font><font face="方正综艺_GBK" size="14"><b>Now it's over and we are moving on.</b></font>
+
+587
+01:15:07,970 --> 01:15:10,670
+<font face="方正黑体_GBK" size="21"><b>我不会允许院长因为我们被身份政治分心
+</b></font><font face="方正综艺_GBK" size="14"><b>I will not allow the dean to cut this department to ribbons</b></font>
+
+588
+01:15:10,710 --> 01:15:12,740
+<font face="方正黑体_GBK" size="21"><b>而把这个部门搞得一团糟
+</b></font><font face="方正综艺_GBK" size="14"><b>because we got distracted by identity politics.</b></font>
+
+589
+01:15:12,780 --> 01:15:14,880
+<font face="方正黑体_GBK" size="21"><b>-身份政治 -是的 在我的眼皮底下不行
+</b></font><font face="方正综艺_GBK" size="14"><b>- Identity politics? - Yeah. Not on my watch.</b></font>
+
+590
+01:15:14,910 --> 01:15:17,210
+<font face="方正黑体_GBK" size="21"><b>坦率地讲 我非常反感你在这里面读出了
+</b></font><font face="方正综艺_GBK" size="14"><b>And quite frankly, I take great offense that you're reading</b></font>
+
+591
+01:15:17,240 --> 01:15:19,780
+<font face="方正黑体_GBK" size="21"><b>-某种偏见 -事情就是这样的
+</b></font><font face="方正综艺_GBK" size="14"><b>- some kind of bias into this. - This is how it happens.</b></font>
+
+592
+01:15:19,820 --> 01:15:21,720
+<font face="方正黑体_GBK" size="21"><b>就在这里 它是如何崩溃的...
+</b></font><font face="方正综艺_GBK" size="14"><b>Right here is how it all breaks down--</b></font>
+
+593
+01:15:21,750 --> 01:15:23,590
+<font face="方正黑体_GBK" size="21"><b>你知道吗 饶了我吧...
+</b></font><font face="方正综艺_GBK" size="14"><b>You know what, spare me--</b></font>
+
+594
+01:15:23,620 --> 01:15:25,620
+<font face="方正黑体_GBK" size="21"><b>这是一个关于这个过程的大合唱...
+</b></font><font face="方正综艺_GBK" size="14"><b>It's this whole big song and dance about the process--</b></font>
+
+595
+01:15:25,660 --> 01:15:27,630
+<font face="方正黑体_GBK" size="21"><b>而现在你很生气 因为你没有得到你想要的
+</b></font><font face="方正综艺_GBK" size="14"><b>And now you're mad that you didn't get what you wanted.</b></font>
+
+596
+01:15:27,660 --> 01:15:29,120
+<font face="方正黑体_GBK" size="21"><b>我们说我们在乎对与错...
+</b></font><font face="方正综艺_GBK" size="14"><b>We say we care about right and wrong--</b></font>
+
+597
+01:15:29,160 --> 01:15:30,830
+<font face="方正黑体_GBK" size="21"><b>-你怎么敢 -但最终 这其实
+</b></font><font face="方正综艺_GBK" size="14"><b>- How dare you? - But in the end, it's really</b></font>
+
+598
+01:15:30,860 --> 01:15:32,660
+<font face="方正黑体_GBK" size="21"><b>只是为了赢 不是吗
+</b></font><font face="方正综艺_GBK" size="14"><b>just about winning, isn't it?</b></font>
+
+599
+01:15:32,700 --> 01:15:36,260
+<font face="方正黑体_GBK" size="21"><b>你来了 我们雇用了你 不是吗
+</b></font><font face="方正综艺_GBK" size="14"><b>You're here. We hired you, didn't we?</b></font>
+
+600
+01:15:40,130 --> 01:15:41,670
+<font face="方正黑体_GBK" size="21"><b>啊
+</b></font><font face="方正综艺_GBK" size="14"><b>Huh?</b></font>
+
+601
+01:15:49,080 --> 01:15:55,150
+<font face="方正黑体_GBK" size="21"><b>你的背怎么样了 亚瑟 我听说你肌肉拉伤了
+</b></font><font face="方正综艺_GBK" size="14"><b>How's your back, Arthur? I hear you pulled a muscle.</b></font>
+
+602
+01:16:02,090 --> 01:16:04,730
+<font face="方正黑体_GBK" size="21"><b>我觉得你需要花点
+</b></font><font face="方正综艺_GBK" size="14"><b>Think you need to take</b></font>
+
+603
+01:16:04,760 --> 01:16:07,320
+<font face="方正黑体_GBK" size="21"><b>时间独处 也许下个学期可以休息一下
+</b></font><font face="方正综艺_GBK" size="14"><b>some time to yourself, maybe take the next term off!</b></font>
+
+604
+01:16:07,360 --> 01:16:09,000
+<font face="方正黑体_GBK" size="21"><b>去看看心理医生吧
+</b></font><font face="方正综艺_GBK" size="14"><b>Go see a shrink!</b></font>
+
+605
+01:16:16,300 --> 01:16:18,010
+<font face="方正黑体_GBK" size="21"><b>她过得很艰难 你知道吗
+</b></font><font face="方正综艺_GBK" size="14"><b>She's having a hard time, you know?</b></font>
+
+606
+01:16:18,040 --> 01:16:20,680
+<font face="方正黑体_GBK" size="21"><b>她只是... 她最近母亲刚过世 所以...
+</b></font><font face="方正综艺_GBK" size="14"><b>She just-- she lost her mom recently, so...</b></font>
+
+607
+01:16:23,050 --> 01:16:24,280
+<font face="方正黑体_GBK" size="21"><b>格雷琴
+</b></font><font face="方正综艺_GBK" size="14"><b>Gretchen.</b></font>
+
+608
+01:16:24,310 --> 01:16:26,310
+<font face="方正黑体_GBK" size="21"><b>来吧 我们要去见院长
+</b></font><font face="方正综艺_GBK" size="14"><b>Come on. We're going to the Dean.</b></font>
+
+609
+01:16:26,350 --> 01:16:27,980
+<font face="方正黑体_GBK" size="21"><b>我们现在就得走
+</b></font><font face="方正综艺_GBK" size="14"><b>We have to go right now.</b></font>
+
+610
+01:16:28,020 --> 01:16:30,050
+<font face="方正黑体_GBK" size="21"><b>什么 你在说什么...
+</b></font><font face="方正综艺_GBK" size="14"><b>What? What are you talking...</b></font>
+
+611
+01:16:30,090 --> 01:16:33,190
+<font face="方正黑体_GBK" size="21"><b>我们不能让他们逍遥法外 再也不会了
+</b></font><font face="方正综艺_GBK" size="14"><b>We cannot let them get away with this. Not anymore.</b></font>
+
+612
+01:16:33,220 --> 01:16:35,760
+<font face="方正黑体_GBK" size="21"><b>我们每一次都要进行反击
+</b></font><font face="方正综艺_GBK" size="14"><b>We have to fight back every time.</b></font>
+
+613
+01:16:35,790 --> 01:16:38,220
+<font face="方正黑体_GBK" size="21"><b>要一直这样 否则就会永无宁日
+</b></font><font face="方正综艺_GBK" size="14"><b>All the time or this is going to go on forever.</b></font>
+
+614
+01:16:38,260 --> 01:16:40,730
+<font face="方正黑体_GBK" size="21"><b>你说了什么吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Did you say something?</b></font>
+
+615
+01:16:48,810 --> 01:16:50,240
+<font face="方正黑体_GBK" size="21"><b>你说了什么
+</b></font><font face="方正综艺_GBK" size="14"><b>What did you say?</b></font>
+
+616
+01:16:56,380 --> 01:16:58,750
+<font face="方正黑体_GBK" size="21"><b>我没有说你的名字
+</b></font><font face="方正综艺_GBK" size="14"><b>I didn't say your name.</b></font>
+
+617
+01:17:06,150 --> 01:17:09,090
+<font face="方正黑体_GBK" size="21"><b>我以为你明白我是多么努力工作才走到今天的
+</b></font><font face="方正综艺_GBK" size="14"><b>I thought you understood how hard I worked to get here.</b></font>
+
+618
+01:17:09,120 --> 01:17:12,700
+<font face="方正黑体_GBK" size="21"><b>格雷琴 我... 相信我 我相信
+</b></font><font face="方正综艺_GBK" size="14"><b>Gretchen. I-- Believe me, I do.</b></font>
+
+619
+01:17:12,730 --> 01:17:14,800
+<font face="方正黑体_GBK" size="21"><b>但你有权利生气
+</b></font><font face="方正综艺_GBK" size="14"><b>But you have a right to be angry.</b></font>
+
+620
+01:17:14,830 --> 01:17:17,300
+<font face="方正黑体_GBK" size="21"><b>你不应该因为
+</b></font><font face="方正综艺_GBK" size="14"><b>And you shouldn't punish yourself</b></font>
+
+621
+01:17:17,330 --> 01:17:20,130
+<font face="方正黑体_GBK" size="21"><b>一些不是你的错而惩罚自己
+</b></font><font face="方正综艺_GBK" size="14"><b>for something that's not your fault.</b></font>
+
+622
+01:17:20,170 --> 01:17:22,940
+<font face="方正黑体_GBK" size="21"><b>你以为我就是这么做的吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Is that what you think I'm doing?</b></font>
+
+623
+01:17:27,240 --> 01:17:30,910
+<font face="方正黑体_GBK" size="21"><b>女士们 一切都还好吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Ladies, everything all right?</b></font>
+
+624
+01:17:39,350 --> 01:17:42,250
+<font face="方正黑体_GBK" size="21"><b>我很抱歉
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm so... Sorry.</b></font>
+
+625
+01:17:55,910 --> 01:17:58,070
+<font face="方正黑体_GBK" size="21"><b>我需要为我的行为道歉
+</b></font><font face="方正综艺_GBK" size="14"><b>I need to apologize for my behavior.</b></font>
+
+626
+01:18:01,080 --> 01:18:05,480
+<font face="方正黑体_GBK" size="21"><b>我说的话太过分了
+</b></font><font face="方正综艺_GBK" size="14"><b>What I said was completely out of line.</b></font>
+
+627
+01:18:05,510 --> 01:18:07,510
+<font face="方正黑体_GBK" size="21"><b>而你是对的
+</b></font><font face="方正综艺_GBK" size="14"><b>And you're right.</b></font>
+
+628
+01:18:07,550 --> 01:18:10,280
+<font face="方正黑体_GBK" size="21"><b>我或许应该休息一段时间
+</b></font><font face="方正综艺_GBK" size="14"><b>I should probably take some time off.</b></font>
+
+629
+01:19:57,260 --> 01:20:01,490
+<font face="方正黑体_GBK" size="21"><b>嘿 伙计们 你们的表现如何
+</b></font><font face="方正综艺_GBK" size="14"><b>Hey, fellas! How'd you do?</b></font>
+
+630
+01:20:01,530 --> 01:20:05,230
+<font face="方正黑体_GBK" size="21"><b>看看这个人 你他妈的告诉我
+</b></font><font face="方正综艺_GBK" size="14"><b>Look at this man, you fuckin' tell me!</b></font>
+
+631
+01:20:16,010 --> 01:20:19,980
+<font face="方正黑体_GBK" size="21"><b>天哪
+</b></font><font face="方正综艺_GBK" size="14"><b>Jesus fucking Christ.</b></font>
+
+632
+01:20:25,680 --> 01:20:28,860
+<font face="方正黑体_GBK" size="21"><b>你知道你在干什么吗
+</b></font><font face="方正综艺_GBK" size="14"><b>What do you think you're doing?</b></font>
+
+633
+01:20:30,160 --> 01:20:31,520
+<font face="方正黑体_GBK" size="21"><b>桑德拉
+</b></font><font face="方正综艺_GBK" size="14"><b>Sandra?</b></font>
+
+634
+01:20:34,030 --> 01:20:36,930
+<font face="方正黑体_GBK" size="21"><b>真是不可思议 这是我的财产
+</b></font><font face="方正综艺_GBK" size="14"><b>Unbelievable. This is my property.</b></font>
+
+635
+01:20:36,970 --> 01:20:40,000
+<font face="方正黑体_GBK" size="21"><b>桑德拉 拜托
+</b></font><font face="方正综艺_GBK" size="14"><b>Sandra, come on.</b></font>
+
+636
+01:20:40,040 --> 01:20:41,330
+<font face="方正黑体_GBK" size="21"><b>桑德拉
+</b></font><font face="方正综艺_GBK" size="14"><b>Sandra.</b></font>
+
+637
+01:20:43,500 --> 01:20:45,140
+<font face="方正黑体_GBK" size="21"><b>天哪
+</b></font><font face="方正综艺_GBK" size="14"><b>Jesus.</b></font>
+
+638
+01:20:53,020 --> 01:20:54,990
+<font face="方正黑体_GBK" size="21"><b>嘿 桑德拉
+</b></font><font face="方正综艺_GBK" size="14"><b>Hey! Sandra!</b></font>
+
+639
+01:21:10,070 --> 01:21:12,660
+<font face="方正黑体_GBK" size="21"><b>是啊 你现在觉得自己长大了吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah, you feel big now?</b></font>
+
+640
+01:21:12,700 --> 01:21:17,600
+<font face="方正黑体_GBK" size="21"><b>你屠杀了小鹿宝宝 你真是个大男人
+</b></font><font face="方正综艺_GBK" size="14"><b>You massacre at tiny baby deer and you're such a big man.</b></font>
+
+641
+01:21:17,640 --> 01:21:20,340
+<font face="方正黑体_GBK" size="21"><b>管好你自己的事儿就好了
+</b></font><font face="方正综艺_GBK" size="14"><b>Just mind your own goddamn business.</b></font>
+
+642
+01:21:20,380 --> 01:21:22,180
+<font face="方正黑体_GBK" size="21"><b>是啊 我也想当妈妈
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah, I'd kinda like to do the mama, too.</b></font>
+
+643
+01:21:22,210 --> 01:21:24,080
+<font face="方正黑体_GBK" size="21"><b>你知道吗 桑德拉 我真的需要你
+</b></font><font face="方正综艺_GBK" size="14"><b>'Kay, you know what, Sandra? I really need you</b></font>
+
+644
+01:21:24,120 --> 01:21:26,210
+<font face="方正黑体_GBK" size="21"><b>-马上离开 -闭上你的臭嘴
+</b></font><font face="方正综艺_GBK" size="14"><b>- to walk away right now-- - Oh, shut the fuck up!</b></font>
+
+645
+01:21:28,050 --> 01:21:30,250
+<font face="方正黑体_GBK" size="21"><b>是啊 闭上你的臭嘴 嗯
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah, shut the fuck up, huh?</b></font>
+
+646
+01:21:35,360 --> 01:21:40,330
+<font face="方正黑体_GBK" size="21"><b>我累了 我对你感到厌烦至极
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm tired. I'm so tired of you.</b></font>
+
+647
+01:21:43,500 --> 01:21:46,600
+<font face="方正黑体_GBK" size="21"><b>你知道吗 前几天她也来过我家
+</b></font><font face="方正综艺_GBK" size="14"><b>You know, she came to my house the other day, too.</b></font>
+
+648
+01:21:46,630 --> 01:21:48,300
+<font face="方正黑体_GBK" size="21"><b>我跟你说过吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Did I tell you that?</b></font>
+
+649
+01:21:50,370 --> 01:21:52,240
+<font face="方正黑体_GBK" size="21"><b>随时都可以回来 宝贝
+</b></font><font face="方正综艺_GBK" size="14"><b>Come back anytime, baby.</b></font>
+
+650
+01:21:52,280 --> 01:21:55,570
+<font face="方正黑体_GBK" size="21"><b>你再回来 我就他妈的杀了你
+</b></font><font face="方正综艺_GBK" size="14"><b>You come back here again, I'll fucking kill you.</b></font>
+
+651
+01:21:55,610 --> 01:21:58,710
+<font face="方正黑体_GBK" size="21"><b>我向上帝发誓 我他妈的会杀了你
+</b></font><font face="方正综艺_GBK" size="14"><b>I swear to God, I'll fucking kill you.</b></font>
+
+652
+01:22:13,590 --> 01:22:16,330
+<font face="方正黑体_GBK" size="21"><b>天哪 你没事儿吧 伙计
+</b></font><font face="方正综艺_GBK" size="14"><b>Holy shit, are you okay, man?</b></font>
+
+653
+01:22:16,370 --> 01:22:18,430
+<font face="方正黑体_GBK" size="21"><b>啊 他妈的
+</b></font><font face="方正综艺_GBK" size="14"><b>Ah. Fuck.</b></font>
+
+654
+01:23:50,860 --> 01:23:54,430
+<font face="方正黑体_GBK" size="21"><b>我很抱歉
+</b></font><font face="方正综艺_GBK" size="14"><b>I'm sorry.</b></font>
+
+655
+01:25:43,340 --> 01:25:45,840
+<font face="方正黑体_GBK" size="21"><b>你他妈的是在跟我开玩笑吗
+</b></font><font face="方正综艺_GBK" size="14"><b>Are you fucking kidding me?</b></font>
+
+656
+01:25:45,870 --> 01:25:50,840
+<font face="方正黑体_GBK" size="21"><b>是的
+</b></font><font face="方正综艺_GBK" size="14"><b>Yeah.</b></font>
+
+657
+01:29:29,000 --> 01:29:30,930
+<font face="方正黑体_GBK" size="21"><b>我们在这儿
+</b></font><font face="方正综艺_GBK" size="14"><b>We're here.</b></font>
+
+658
+01:29:34,870 --> 01:29:35,900
+<font face="方正黑体_GBK" size="21"><b>我们在这儿
+</b></font><font face="方正综艺_GBK" size="14"><b>We're here!</b></font>
+
+659
+01:29:49,150 --> 01:29:50,590
+<font face="方正黑体_GBK" size="21"><b>我们在这儿
+</b></font><font face="方正综艺_GBK" size="14"><b>We're here!</b></font>
+
+660
+01:34:39,240 --> 01:34:43,440
+<font face="方正黑体_GBK" size="21"><b>嘿 我要抽根烟
+</b></font><font face="方正综艺_GBK" size="14"><b>Hey, I'm gonna have a smoke.</b></font>
+
+661
+01:36:26,120 --> 01:36:27,920
+<font face="方正黑体_GBK" size="21"><b>不 你要干嘛 你要干嘛
+</b></font><font face="方正综艺_GBK" size="14"><b>No, what are you doing? What are you doing?</b></font>
+
+662
+01:36:29,610 --> 01:36:31,120
+<font face="方正黑体_GBK" size="21"><b>噢... 不 不 不 不
+</b></font><font face="方正综艺_GBK" size="14"><b>Oh-- No, no, no, no!</b></font>
+
