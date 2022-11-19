@@ -40,7 +40,7 @@ if __name__ == '__main__':
     for ass in provider.getAssFiles():
         srt = provider.map(ass, "srt")
         os.makedirs(srt[:-1*len(os.path.basename(srt))], exist_ok=True)
-        subprocess.run([r"ffmpeg.exe", "-i", ass, srt], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+        subprocess.run([r"ffmpeg", "-i", ass, srt], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
     for srt in provider.getSkipFiles():
         shutil.copy(srt, provider.map(srt, "origin.srt"))
     if os.path.exists("ass2srt.zip"):
