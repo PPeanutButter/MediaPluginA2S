@@ -25,6 +25,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('path', type=str, help='传入一个ass的文件、一个包含ass文件的压缩包')
     args = parser.parse_args()
+    input_file_name = os.path.basename(args.path)
     ext = str(args.path.split(".")[-1]).lower()
     if ext == 'ass':
         provider = AssProvider(args.path)
@@ -43,13 +44,12 @@ if __name__ == '__main__':
         subprocess.run([r"ffmpeg", "-i", ass, srt], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
     for srt in provider.getSkipFiles():
         shutil.copy(srt, provider.map(srt, "origin.srt"))
-    if os.path.exists("ass2srt.zip"):
-        os.remove("ass2srt.zip")
     if len(provider.dst) > 1:
-        zip_folder(zipfile.ZipFile("ass2srt.zip", 'w', zipfile.ZIP_DEFLATED), provider.convert_dir)
-        print(json.dumps(dict(code=1, file="ass2srt.zip", files=[os.path.basename(i) for i in provider.dst])))
+        zip_folder(zipfile.ZipFile(input_file_name[:-3]+"zip", 'w', zipfile.ZIP_DEFLATED), provider.convert_dir)
+        print(json.dumps(dict(code=1, file=input_file_name[:-3]+"zip", files=[os.path.basename(i) for i in provider.dst])))
     elif len(provider.dst) == 1:
-        shutil.copy(provider.dst[0], "ass2srt.srt")
-        print(json.dumps(dict(code=2, file="ass2srt.srt", files=[os.path.basename(i) for i in provider.dst])))
+        _name = os.path.basename(provider.dst[0])
+        shutil.copy(provider.dst[0], _name)
+        print(json.dumps(dict(code=2, file=_name, files=[os.path.basename(i) for i in provider.dst])))
     else:
-        print(json.dumps(dict(code=-1, file="")))
+        print(json.dumps(dict(code=-1, file="", files=[])))
