@@ -26,6 +26,7 @@ if __name__ == '__main__':
     parser.add_argument('path', type=str, help='传入一个ass的文件、一个包含ass文件的压缩包')
     args = parser.parse_args()
     input_file_name = os.path.basename(args.path)
+    output_file_name = input_file_name[:input_file_name.rfind(".")]+".zip"
     ext = str(args.path.split(".")[-1]).lower()
     if ext == 'ass':
         provider = AssProvider(args.path)
@@ -36,7 +37,7 @@ if __name__ == '__main__':
     elif ext == '7z':
         provider = SevenZipProvider(args.path)
     else:
-        print(json.dumps(dict(code=-1, file="")))
+        print(json.dumps(dict(code=-1, file="", files=[])))
         sys.exit(1)
     for ass in provider.getAssFiles():
         srt = provider.map(ass, "srt")
@@ -45,8 +46,8 @@ if __name__ == '__main__':
     for srt in provider.getSkipFiles():
         shutil.copy(srt, provider.map(srt, "origin.srt"))
     if len(provider.dst) > 1:
-        zip_folder(zipfile.ZipFile(input_file_name[:-3]+"zip", 'w', zipfile.ZIP_DEFLATED), provider.convert_dir)
-        print(json.dumps(dict(code=1, file=input_file_name[:-3]+"zip", files=[os.path.basename(i) for i in provider.dst])))
+        zip_folder(zipfile.ZipFile(output_file_name, 'w', zipfile.ZIP_DEFLATED), provider.convert_dir)
+        print(json.dumps(dict(code=1, file=output_file_name, files=[os.path.basename(i) for i in provider.dst])))
     elif len(provider.dst) == 1:
         _name = os.path.basename(provider.dst[0])
         shutil.copy(provider.dst[0], _name)
