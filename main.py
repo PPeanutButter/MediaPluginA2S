@@ -4,12 +4,16 @@ import os.path
 import shutil
 import subprocess
 import sys
+import threading
+import time
 import zipfile
 
 from AssProvider import AssProvider
 from RarProvider import RarProvider
 from SevenZipProvider import SevenZipProvider
 from ZipProvider import ZipProvider
+
+convert_lock = threading.Semaphore(4)
 
 
 def zip_folder(_zip, name):
@@ -19,6 +23,14 @@ def zip_folder(_zip, name):
         _zip.write(file_path, arcname=file_path.replace("_convert", ""))
         if os.path.isdir(file_path):
             zip_folder(_zip, file_path)
+
+
+def convert_mul_thread(_ass, _srt):
+    try:
+        time.sleep(1)
+    finally:
+        convert_lock.release()
+    # subprocess.run([r"ffmpeg", "-i", _ass, _srt], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
 
 
 if __name__ == '__main__':
@@ -40,17 +52,24 @@ if __name__ == '__main__':
         print(json.dumps(dict(code=-1, file="", files=[])))
         sys.exit(1)
     for ass in provider.getAssFiles():
-        srt = provider.map(ass, "srt")
-        os.makedirs(srt[:-1*len(os.path.basename(srt))], exist_ok=True)
-        subprocess.run([r"ffmpeg", "-i", ass, srt], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-    for srt in provider.getSkipFiles():
-        shutil.copy(srt, provider.map(srt, "origin.srt"))
-    if len(provider.dst) > 1:
-        zip_folder(zipfile.ZipFile(output_file_name, 'w', zipfile.ZIP_DEFLATED), provider.convert_dir)
-        print(json.dumps(dict(code=1, file=output_file_name, files=[os.path.basename(i) for i in provider.dst])))
-    elif len(provider.dst) == 1:
-        _name = os.path.basename(provider.dst[0])
-        shutil.copy(provider.dst[0], _name)
-        print(json.dumps(dict(code=2, file=_name, files=[os.path.basename(i) for i in provider.dst])))
-    else:
-        print(json.dumps(dict(code=-1, file="", files=[])))
+        if convert_lock.acquire():
+            srt = provider.map(ass, "srt")
+            os.makedirs(srt[:-1*len(os.path.basename(srt))], exist_ok=True)
+            threading.Thread(target=convert_mul_thread, args=(ass, srt,)).start()
+    while True:
+        # wait for all threads
+        if convert_lock._value < 4:
+            time.sleep(0.1)
+        else:
+            for srt in provider.getSkipFiles():
+                shutil.copy(srt, provider.map(srt, "origin.srt"))
+            if len(provider.dst) > 1:
+                zip_folder(zipfile.ZipFile(output_file_name, 'w', zipfile.ZIP_DEFLATED), provider.convert_dir)
+                print(json.dumps(dict(code=1, file=output_file_name, files=[os.path.basename(i) for i in provider.dst])))
+            elif len(provider.dst) == 1:
+                _name = os.path.basename(provider.dst[0])
+                shutil.copy(provider.dst[0], _name)
+                print(json.dumps(dict(code=2, file=_name, files=[os.path.basename(i) for i in provider.dst])))
+            else:
+                print(json.dumps(dict(code=-1, file="", files=[])))
+            break
