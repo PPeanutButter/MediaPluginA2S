@@ -27,10 +27,9 @@ def zip_folder(_zip, name):
 
 def convert_mul_thread(_ass, _srt):
     try:
-        time.sleep(1)
+        subprocess.run([r"ffmpeg", "-i", _ass, _srt], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
     finally:
         convert_lock.release()
-    # subprocess.run([r"ffmpeg", "-i", _ass, _srt], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
 
 
 if __name__ == '__main__':
