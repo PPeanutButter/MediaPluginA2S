@@ -20,6 +20,11 @@ class ZipProvider(FileProvider):
         if r:
             fz = zipfile.ZipFile(zip_src, 'r')
             for file in fz.namelist():
+                # 防止中文乱码
+                try:
+                    file = file.encode('cp437').decode('gbk')
+                except UnicodeError:
+                    file = file.encode('utf-8').decode('utf-8')
                 fz.extract(file, self.cache_dir)
         else:
             sys.exit(1)
