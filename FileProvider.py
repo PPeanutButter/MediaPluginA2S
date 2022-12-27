@@ -9,6 +9,7 @@ class FileProvider:
         self.convert_dir = "_convert"
         self.dst = []
         self.empty_cache()
+        self.debug = False
 
     def empty_cache(self):
         if os.path.exists(self.cache_dir):
@@ -33,11 +34,15 @@ class FileProvider:
     def getSkipFiles(self) -> list:
         pass
 
+    def debug(self):
+        self.debug = True
+
     def clean_up(self):
-        if os.path.exists(self.convert_dir):
-            shutil.rmtree(self.convert_dir)
-        if os.path.exists(self.cache_dir):
-            shutil.rmtree(self.cache_dir)
+        if not self.debug:
+            if os.path.exists(self.convert_dir):
+                shutil.rmtree(self.convert_dir)
+            if os.path.exists(self.cache_dir):
+                shutil.rmtree(self.cache_dir)
 
     def __del__(self):
         self.clean_up()

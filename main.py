@@ -51,6 +51,8 @@ if __name__ == '__main__':
     else:
         print(json.dumps(dict(code=-1, file="", files=[])))
         sys.exit(1)
+    if args.debug:
+        provider.debug()
     for ass in provider.getAssFiles():
         if convert_lock.acquire():
             srt = provider.map(ass, "srt")
