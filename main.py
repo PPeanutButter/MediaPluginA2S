@@ -57,7 +57,7 @@ if __name__ == '__main__':
             threading.Thread(target=convert_mul_thread, args=(ass, srt,)).start()
     while True:
         # wait for all threads
-        if convert_lock._value < 4:
+        if convert_lock._value < 8:
             time.sleep(0.1)
         else:
             for srt in provider.getSkipFiles():
