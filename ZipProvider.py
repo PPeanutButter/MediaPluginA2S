@@ -1,5 +1,6 @@
 import glob
 import os.path
+import subprocess
 import sys
 import zipfile
 
@@ -16,18 +17,7 @@ class ZipProvider(FileProvider):
         self.collect_files()
 
     def unzip_file(self, zip_src):
-        r = zipfile.is_zipfile(zip_src)
-        if r:
-            fz = zipfile.ZipFile(zip_src, 'r')
-            for file in fz.namelist():
-                # 防止中文乱码
-                try:
-                    file = file.encode('cp437').decode('gbk')
-                except UnicodeError:
-                    file = file.encode('utf-8').decode('utf-8')
-                fz.extract(file, self.cache_dir)
-        else:
-            sys.exit(1)
+        subprocess.run([r"unzip", zip_src, "-d", self.cache_dir], stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
 
     def collect_files(self):
         self.ass = glob.glob(os.path.join(self.cache_dir, "**/*.ass"), recursive=True)

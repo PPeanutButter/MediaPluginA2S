@@ -35,6 +35,7 @@ def convert_mul_thread(_ass, _srt):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('path', type=str, help='传入一个ass的文件、一个包含ass文件的压缩包')
+    parser.add_argument('--debug', action='store_true')
     args = parser.parse_args()
     input_file_name = os.path.basename(args.path)
     output_file_name = input_file_name[:input_file_name.rfind(".")]+".zip"
