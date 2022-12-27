@@ -13,7 +13,7 @@ from RarProvider import RarProvider
 from SevenZipProvider import SevenZipProvider
 from ZipProvider import ZipProvider
 
-convert_lock = threading.Semaphore(4)
+convert_lock = threading.Semaphore(8)
 
 
 def zip_folder(_zip, name):
